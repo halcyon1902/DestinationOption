@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741312867875",
+    "firebase_url": "https://diadiemdulich2-default-rtdb.firebaseio.com",
+    "project_id": "diadiemdulich2",
+    "storage_bucket": "diadiemdulich2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741312867875:android:f6c46f7bb0e26010f28b96",
+        "android_client_info": {
+          "package_name": "com.example.desop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741312867875-movdtpvdgqdehb77j8m9rf81gtosjmo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPO36XRl70fxfBsXWwe6DTho7aQBFLyIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741312867875-movdtpvdgqdehb77j8m9rf81gtosjmo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

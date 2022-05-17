@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_handbook"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_handbook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/hand_book"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_handbook"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toStartOf="@+id/imageView_handbook"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/packed_with_tips_and_advice_for_before_and_during_your_travels_the_solo_travel_handbook_gives_you_the_confidence_and_know_how_to_explore_the_world_on_your_own_whether_you_re_planning_a_once_in_a_lifetime_adventure_or_short_city_break"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:id="@+id/imageView_handbook"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/handbook"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_news"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_news"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/news"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_news"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toStartOf="@id/imageView_news"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/the_latest_travel_news_on_the_most_significant_developments_in_the_travel_industry"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:id="@+id/imageView_news"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/news"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_transport"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_transport"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/transport"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_transport"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toStartOf="@id/imageView_transport"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/see_an_overview_of_transport_options_for_travellers_within_vietnam"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:id="@+id/imageView_transport"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/airport"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_tour"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_tour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/tour"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform"
+                    tools:ignore="RelativeOverlap" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/tourist_guide"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_exchange"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_exchange"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/exchange"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform"
+                    tools:ignore="RelativeOverlap" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_exchange"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/exchange_one_currency_for_another"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/exchange"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_communicate"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_communicate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/communicate"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_communicate"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toStartOf="@+id/imageView_communicate"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/communication_is_simply_the_act_of_transferring_information"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:id="@+id/imageView_communicate"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/google_translate"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView_hotline"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dark_orange"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtView_hotline"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="20sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/hotline"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:autoSizeTextType="uniform"
+                    tools:ignore="RelativeOverlap" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtView_hotline"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:autoSizeMaxTextSize="100sp"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeStepGranularity="2sp"
+                    android:text="@string/hotline_travel_security"
+                    app:autoSizeTextType="uniform" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentEnd="true"
+                    android:maxHeight="100dp"
+                    android:src="@drawable/call"
+                    tools:ignore="ContentDescription" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+</LinearLayout>

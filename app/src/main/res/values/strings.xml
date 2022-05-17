@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">DestinationOptions </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="full_name">Full Name</string>
+    <string name="todo">TODO</string>
+    <string name="qu_n_m_t_kh_u">Quên mật khẩu?</string>
+    <string name="ng_k">Đăng kí</string>
+    <string name="ch_a_c_t_i_kho_n">Chưa có tài khoản?</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+    <string name="m_t_kh_u">Mật khẩu</string>
+    <string name="email">Email</string>
+    <string name="destination_options">Destination Options</string>
+    <string name="x_c_nh_n">Xác nhận</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="update_password">Update Password</string>
+    <string name="back">Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="create_account">Create account</string>
+    <string name="save">save</string>
+
+    <string name="text_info">
+        VỀ CHÚNG TÔI:\n\n
+        \t\tTại Việt Nam, du lịch được liệt kê vào danh sách những ngành nghề phát triển nhất trong những năm gần đây. Nhiều doanh nghiệp đã chứng tỏ được chiến lược phát triển\n\n
+App đề xuất du lịch của chúng tôi gồm các chức năng :\n\n
+\t\t\t•    Cung cấp danh sách địa điểm du lịch, nhà hàng, khách sạn, vui chơi\n
+\t\t\t•    Mô tả thực tế về địa điểm gồm những hình ảnh sắc nét\n\n
+VỀ CHÍNH SÁCH BẢO MẬT:\n\n
+\t\t\t1.    Thu thập : chúng tôi có thể thu thông thập tin về quý khách như tên, số điện thoại, địa chỉ thư điện tử, chi tiết thẻ tín dụng qua cách quý khách sử dụng app\n
+\t\t\t2.    Sử dụng : Chúng tôi có thể sử dụng thông tin của quý khách để cung cấp các dịch vụ được yêu cầu, để duy trì và cải thiện cho app và gửi truyền thông tiếp thị cho quý khách\n
+\t\t\t3.    Thiết bị di dộng : Với sự đồng ý của quý khách, chúng tôi có thể cho quý khách thông báo đẩy chứa thông tin về các địa điểm du lịch của quý khách đã chọn\n
+\t\t\t4.    Chia sẻ : Chúng tôi có thể chia sẻ thông tin quý khách cho các nhà cung cấp, đối tác kinh doanh và chi nhánh của chúng tôi\n
+\t\t\t5.    Quyền riêng tư theo từng quốc gia : Tuỳ thuộc vào quốc gia cư trú của quý khách, quý khách có thể có quyền yêu cầu thông tin từ chúng tôi gồm cả cách chúng tôi chia sẻ một số hạng mục thông tin của quý khách với các bên thứ ba\n
+\t\t\t6.    Cookie : Chúng tôi có thể dùng cookie và các công nghệ tương tự để giúp cung cấp cho app, hiểu và tuỳ chỉnh các tuỳ chọn của quý khách, và hiển thị quảng cáo có liên quan\n
+\t\t\t7.    An ninh : Chúng tôi duy trì biện pháp bảo vệ thông tin của quý khách va yêu cầu các nhà cung cấp dịch vụ của chúng tôi làm giống như thế\n\n
+\tTHÔNG TIN LIÊN HỆ:\n\n
+\tEmail : trantrungngu@gmail.com\n\n
+\tĐiện thoại : 0703603785 ( Trung ngu )\n
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="explore">Explore</string>
+    <string name="hey_what_would_you_like_to_explore_today">Hey, What would you like to explore today ?</string>
+    <string name="exchange">Exchange</string>
+    <string name="hotline_travel_security">Hotline Travel Security</string>
+    <string name="hotline">Hotline</string>
+    <string name="communication_is_simply_the_act_of_transferring_information">Communication is simply the act of transferring information</string>
+    <string name="communicate">Communicate</string>
+    <string name="exchange_one_currency_for_another">exchange one currency for another</string>
+    <string name="tour">Tour</string>
+    <string name="see_an_overview_of_transport_options_for_travellers_within_vietnam">See an overview of transport options for travellers within Vietnam</string>
+    <string name="the_latest_travel_news_on_the_most_significant_developments_in_the_travel_industry">The latest travel news on the most significant developments in the travel industry</string>
+    <string name="news">News</string>
+    <string name="packed_with_tips_and_advice_for_before_and_during_your_travels_the_solo_travel_handbook_gives_you_the_confidence_and_know_how_to_explore_the_world_on_your_own_whether_you_re_planning_a_once_in_a_lifetime_adventure_or_short_city_break">Packed with tips and advice for before and during your travels, The Solo Travel Handbook gives you the confidence and know-how to explore the world on your own, whether you\'re planning a once-in-a-lifetime adventure or short city break.</string>
+    <string name="hand_book">Hand Book</string>
+    <string name="transport">Transport</string>
+    <string name="enjoy_your_day">enjoy your day</string>
+    <string name="account">Account</string>
+    <string name="l_ng_c_ph_b_n">Lăng cụ phó bản</string>
+    <string name="province">Province</string>
+    <string name="favorite">Favorite</string>
+    <string name="history">History</string>
+    <string name="log_out">Log out</string>
+    <string name="function">Function</string>
+    <string name="notification">notification</string>
+    <string name="declaration">declaration</string>
+    <string name="setting">Setting</string>
+    <string name="another_function">Another function</string>
+    <string name="information_app">Information App</string>
+    <string name="exit">Exit</string>
+    <string name="map">Map</string>
+    <string name="faq">FAQ</string>
+    <string name="place_name">Place Name</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

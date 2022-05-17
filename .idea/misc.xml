@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3105" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/bg_gradient.xml" value="0.2665" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/bg_gradient2.xml" value="0.2665" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/bg_round.xml" value="0.1885" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/button.xml" value="0.2665" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/container_explore.xml" value="0.2295" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2665" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.236" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_baseline_receipt_24.xml" value="0.236" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3105" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.236" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3105" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/drawable/side_nav_bar.xml" value="0.2275" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_edit_profile_page.xml" value="0.25877192982456143" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_fogot_password.xml" value="0.2865740740740741" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_list_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_loading_screen.xml" value="0.334375" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_loading_screen2.xml" value="0.1707193515704154" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_main.xml" value="0.43174250832408434" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_main_screen.xml" value="0.3047619047619048" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_mainscreen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_map.xml" value="0.30625" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_navigation_bar.xml" value="0.27760416666666665" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_sign_in.xml" value="0.2076923076923077" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_sign_up.xml" value="0.2865740740740741" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/activity_update_password.xml" value="0.3047619047619048" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/app_bar_main.xml" value="0.24145299145299146" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/content_main.xml" value="0.2970464135021097" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/fragment_app_info.xml" value="0.2076923076923077" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/fragment_help.xml" value="0.23854166666666668" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/fragment_home.xml" value="0.23675213675213674" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/fragment_setting.xml" value="0.27181467181467184" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/fragment_user.xml" value="0.3047619047619048" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/item_card.xml" value="0.25811965811965815" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/item_cardview.xml" value="0.13" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/item_listlocation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/item_photo.xml" value="0.36102564102564105" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/item_province.xml" value="0.3047619047619048" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/nav_header_main.xml" value="0.2970464135021097" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/news_categories_rv_item.xml" value="0.3078125" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/layout/news_rv_item.xml" value="0.3078125" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/menu/bottom_menu.xml" value="0.2970464135021097" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/menu/drawer_menu.xml" value="0.2970464135021097" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/menu/main.xml" value="0.4703125" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3005" />
+        <entry key="..\:/Code/DesOp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.332" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/drawable/bg_gradient.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/drawable/bg_gradient2.xml" value="0.1165" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/drawable/button.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2165" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/font/font.xml" value="0.39076923076923076" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_list_location.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_loading_screen.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_loading_screen2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/activity_sign_up.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/Desktop/DO an JAVA/DesOp/app/src/main/res/layout/item_listlocation.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/activity_detail.xml" value="0.14002732240437157" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/activity_loading_screen.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/activity_sign_in.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/activity_sign_up.xml" value="0.1674342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/fragment_app_info.xml" value="0.15384615384615385" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/fragment_setting.xml" value="0.14703425229741018" />
+        <entry key="..\:/Users/Admin/Desktop/DesOp/app/src/main/res/layout/nav_header_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/drawable/bg_indicator3.xml" value="0.269" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_fogot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_list_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_list_province.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_loading_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_loading_screen2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_main_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/fragment_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/fragment_support.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/fragment_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/item_listlocation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/item_photo.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/item_province.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpProvip/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/drawable/ic_favorite_border_white.xml" value="0.249" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/drawable/ic_favorite_white.xml" value="0.249" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_detail.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_edit_profile_page.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_fogot_password.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_list_location.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_list_province.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_loading_screen.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_loading_screen2.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_main_screen.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_map.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_sign_in.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_sign_up.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/activity_update_password.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/app_bar_main.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/content_main.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_app_info.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_hobby.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_home.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_setting.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_support.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/fragment_user.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/item_cardview.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/item_listlocation.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/item_photo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/item_province.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/layout/nav_header_main.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/menu/bottom_menu.xml" value="0.19276315789473683" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTien/app/src/main/res/menu/drawer_menu.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/activity_detail.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/activity_edit_profile_page.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/activity_list_location.xml" value="0.17796052631578949" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/activity_list_province.xml" value="0.17796052631578949" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/activity_map.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/app_bar_main.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/content_main.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/fragment_app_info.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/fragment_hobby.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/fragment_home.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/fragment_user.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/item_cardview.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/item_listlocation.xml" value="0.17796052631578949" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/layout/nav_header_main.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/Admin/Desktop/DesOpTienMoi/app/src/main/res/menu/drawer_menu.xml" value="0.1424342105263158" />
+        <entry key="..\:/Users/huynh/Downloads/Compressed/DesOpTienMoi/DesOpTienMoi/app/src/main/res/layout/fragment_home.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/huynh/Downloads/Compressed/DesOpTienMoi/DesOpTienMoi/app/src/main/res/layout/item_cardview.xml" value="0.23157894736842105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

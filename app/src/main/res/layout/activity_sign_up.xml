@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Login.activitySignUp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="40sp"
+        android:autoSizeStepGranularity="2sp"
+        android:text="@string/create_account"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:autoSizeTextType="uniform" />
+
+    <EditText
+        android:id="@+id/edt_Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginEnd="15dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="15sp"
+        android:autoSizeStepGranularity="2sp"
+        android:drawableStart="@drawable/gmail"
+        android:drawablePadding="10dp"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textSize="25sp"
+        app:autoSizeTextType="uniform" />
+
+    <EditText
+        android:id="@+id/edt_HoTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="15sp"
+        android:autoSizeStepGranularity="2sp"
+        android:drawableStart="@drawable/user_male"
+        android:drawablePadding="10dp"
+        android:hint="@string/full_name"
+        android:inputType="text"
+        android:textSize="25sp"
+        app:autoSizeTextType="uniform" />
+
+    <EditText
+        android:id="@+id/edt_Sdt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="15sp"
+        android:autoSizeStepGranularity="2sp"
+        android:drawableStart="@drawable/iphone"
+        android:drawablePadding="10dp"
+        android:hint="@string/phone"
+        android:inputType="number"
+        android:textSize="25sp"
+        app:autoSizeTextType="uniform" />
+
+    <EditText
+        android:id="@+id/edt_MatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="15sp"
+        android:autoSizeStepGranularity="2sp"
+        android:drawableStart="@drawable/password"
+        android:drawablePadding="10dp"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:textSize="25sp"
+        app:autoSizeTextType="uniform" />
+
+    <EditText
+        android:id="@+id/edt_XacNhanMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="15sp"
+        android:autoSizeStepGranularity="2sp"
+        android:drawableStart="@drawable/password"
+        android:drawablePadding="10dp"
+        android:hint="@string/confirm_password"
+        android:inputType="textPassword"
+        android:textSize="25sp"
+        app:autoSizeTextType="uniform" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_TroVe"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:background="@drawable/button"
+            android:text="@string/back"
+            android:textSize="15sp"
+            app:autoSizeTextType="uniform"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <Button
+            android:id="@+id/btn_Tao"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:layout_marginStart="30dp"
+            android:background="@drawable/button"
+            android:text="@string/sign_up"
+            android:textSize="15sp"
+            app:autoSizeTextType="uniform"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+
+</LinearLayout>

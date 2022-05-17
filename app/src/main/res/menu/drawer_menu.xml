@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/user_male"
+            android:title="@string/account" />
+        <item
+            android:id="@+id/hobby"
+            android:icon="@drawable/facebook_like"
+            android:title="@string/favorite" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/order_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/signout"
+            android:title="@string/log_out" />
+    </group>
+
+    <item android:title="@string/function">
+        <menu>
+            <item
+                android:id="@+id/notification"
+                android:icon="@drawable/notification"
+                android:title="@string/notification" />
+            <item
+                android:id="@+id/Declaration"
+                android:icon="@drawable/medical_doctor"
+                android:title="@string/declaration" />
+            <item
+                android:id="@+id/question"
+                android:icon="@drawable/fag"
+                android:title="@string/faq" />
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/setting"
+                android:title="@string/setting" />
+        </menu>
+    </item>
+
+    <item android:title="@string/another_function">
+        <menu>
+            <item
+                android:id="@+id/AppInfo"
+                android:icon="@drawable/info"
+                android:title="@string/information_app" />
+            <item
+                android:id="@+id/Exit"
+                android:icon="@drawable/shutdown"
+                android:title="@string/exit" />
+        </menu>
+    </item>
+
+</menu>

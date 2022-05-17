@@ -1,0 +1,2051 @@
+{
+  "app_title": "Realtime Database",
+  "province": {
+    "An Giang": {
+      "location1": {
+        "diaChi": "Ấp Văn Trà, Tịnh Biên, An Giang",
+        "moTa": "Tham quan rừng ngập mặn bằng thuyền",
+        "tenDiaDiem": "Rừng Tràm Trà Sư",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/AnGiang%2Frung%20tram%20tra%20su.jpg?alt=media&token=efe13cb3-23a0-46e8-afed-44dc4bb74e0c"
+      },
+      "location2": {
+        "diaChi": "xã An Hảo, huyện Tịnh Biên, tỉnh An Giang",
+        "moTa": "Núi lớn có bảo tháp và tượng phật",
+        "tenDiaDiem": "Núi Cấm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/AnGiang%2Fnui%20cam.jpg?alt=media&token=1e9badbb-c7db-466a-9f80-d8632bc760fe"
+      },
+      "location3": {
+        "diaChi": "Tri Tôn, xã Núi Tô, huyện Tri Tôn, tĩnh An Giang",
+        "moTa": "Đỉnh núi có lối đi bộ gồ ghề",
+        "tenDiaDiem": "Tà Pạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/AnGiang%2Fta%20pa.jpg?alt=media&token=31cb95bb-5eba-4586-a339-ddc6b9361d07"
+      },
+      "location4": {
+        "diaChi": "phường Núi Sam, thành phố Châu Đốc, tỉnh An Giang",
+        "moTa": "Đỉnh núi có đền chùa, quán ăn & cảnh đẹp",
+        "tenDiaDiem": "Núi Sam",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/AnGiang%2Fnui%20sam.jpg?alt=media&token=d1569eb8-79e4-4258-8a18-184e81b3f60b"
+      },
+      "location5": {
+        "diaChi": " Đường Vòng Núi Sam, P. Núi Sam, Châu Đốc, An Giang",
+        "moTa": "Ngôi Chùa có kiến trúc độc đáo",
+        "tenDiaDiem": "Tây An Cổ Tự",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/AnGiang%2Ftay%20an%20co%20tu.jpg?alt=media&token=dafcf734-8905-425e-944e-38cb861a0164"
+      }
+    },
+    "Bà Rịa – Vũng Tàu": {
+      "location1": {
+        "diaChi": "Quần đảo cách thành phố Vũng Tàu 97 hải lý theo đường biển",
+        "moTa": "Bãi biển, rùa & ngọn hải đăng Bảy Cạnh",
+        "tenDiaDiem": "Côn Đảo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BaRiaVungTau%2Fcon%20dao.jpg?alt=media&token=2f7ec58f-e580-4763-8a6e-69e79fa93ccd"
+      },
+      "location2": {
+        "diaChi": "huyện Côn Đảo, tỉnh Bà Rịa – Vũng Tàu",
+        "moTa": "Khu bảo tồn tự nhiên có bãi biển, động vật hoang dã",
+        "tenDiaDiem": "Vườn Quốc gia Côn Đảo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BaRiaVungTau%2Fvuon%20quoc%20gia%20con%20dao.jpg?alt=media&token=26573e81-8ec8-4959-b5d2-acb88b3a8726"
+      },
+      "location3": {
+        "diaChi": "Đường Quang Trung, phường 1, TP. Vũng Tàu",
+        "moTa": "Bờ biển nhỏ, đầy cát & công viên gần đó",
+        "tenDiaDiem": "Bãi Trước",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BaRiaVungTau%2Fbai%20truoc.jpg?alt=media&token=3904e179-268f-44fc-8764-64fbf0f0ab17"
+      },
+      "location4": {
+        "diaChi": "01, Bà Rịa - Vũng Tàu",
+        "moTa": "Tượng chúa Jesus được xây dựng từ 1974 đến 1993",
+        "tenDiaDiem": "Tượng đài Chúa Kitô Vua",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BaRiaVungTau%2Ftuong%20chua%20jesus.jpg?alt=media&token=936bf090-9fcb-4a40-b786-f9b7d3ee8ed5"
+      },
+      "location5": {
+        "diaChi": "tỉnh Bà Rịa - Vũng Tàu",
+        "moTa": "Bãi biển thơ mộng nhìn ra cảnh hoàng hôn",
+        "tenDiaDiem": "Bãi biển Long Hải",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BaRiaVungTau%2Fbai%20bien%20long%20hai.jpg?alt=media&token=3d4e17fe-cfef-4b09-b2d5-6886894715a8"
+      }
+    },
+    "Bình Dương": {
+      "location1": {
+        "diaChi": "1765a QL13, Xã Hiệp An, Thủ Dầu Một, Bình Dương",
+        "moTa": "Tổ hợp công viên, vườn thú và trường đua",
+        "tenDiaDiem": "Đại Nam Dâng Hiến",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDuong%2Fdai%20nam.jpg?alt=media&token=b62afe9f-ed3e-450e-a361-840859bb9c73"
+      },
+      "location2": {
+        "diaChi": "Bình An, Dĩ An, Bình Dương",
+        "moTa": "Công viên gia đình có bể bơi và lối đi rậm rạp",
+        "tenDiaDiem": "Du lịch Sinh thái Thủy Châu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDuong%2FKDL%20thuy%20chau.jpg?alt=media&token=027b387b-402b-4668-99c1-938c9230bdb7"
+      },
+      "location3": {
+        "diaChi": "Định Thành, Dầu Tiếng, Bình Dương",
+        "moTa": "Con suối lởm chởm đá có nhiều thác nước nhỏ",
+        "tenDiaDiem": "Suối Trúc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDuong%2Fsuoi%20truc.jpg?alt=media&token=10d08ed2-6d29-4784-8514-a7ca2db7bcc0"
+      },
+      "location4": {
+        "diaChi": "35 Yersin, Phú Cường, Thủ Dầu Một, Bình Dương",
+        "moTa": "Bảo tháp uy nghi giữa những bức tượng phật",
+        "tenDiaDiem": "Chùa Hội Khánh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDuong%2Fchua%20hoi%20khanh.jpg?alt=media&token=92983321-4138-47a8-9418-70319c102500"
+      },
+      "location5": {
+        "diaChi": "Xã Bình Thắng, Dĩ An, Bình Dương",
+        "moTa": "Ngôi chùa trên núi có khỉ sinh sống",
+        "tenDiaDiem": "Chùa Châu Thới",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDuong%2Fchua%20chau%20thoi.jpg?alt=media&token=0c692049-ba9d-4819-a608-22d0957f6f31"
+      }
+    },
+    "Bình Phước": {
+      "location1": {
+        "diaChi": "phường Sơn Giang thị xã Phước Long, tỉnh Bình Phước",
+        "moTa": "Ngọn núi có cáp treo và cảnh quan đẹp",
+        "tenDiaDiem": "Núi Bà Rá",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhPhuoc%2Fnui%20ba%20ra.jpg?alt=media&token=46038e69-b73e-4744-80a6-bdac0d3c4229"
+      },
+      "location2": {
+        "diaChi": "thôn 7 xã Đồng Nai, huyện Bù Đăng, Bình Phước",
+        "moTa": "thiên nhiên",
+        "tenDiaDiem": "Trảng cỏ bù lạch",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhPhuoc%2Ftrang%20co%20bu%20lach.jpg?alt=media&token=6bfd992f-fd3f-4570-84da-015c08b6e450"
+      },
+      "location3": {
+        "diaChi": "Thuận Phú, Đồng Phú, Bình Phước",
+        "moTa": "thiên nhiên",
+        "tenDiaDiem": "Hồ Suối Lam",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhPhuoc%2Fho%20suoi%20lam.jpg?alt=media&token=351eeb72-f8fe-47bb-8b3d-c99f5dcd4354"
+      },
+      "location4": {
+        "diaChi": "Đường đi Thác đứng, Đoàn Kết, Bù Đăng, Bình Phước",
+        "moTa": "Thác và tự nhiên",
+        "tenDiaDiem": "Thác Đứng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhPhuoc%2Fthac%20dung.jpg?alt=media&token=5f19e20e-018a-4312-9492-f3ebcfcc26c4"
+      },
+      "location5": {
+        "diaChi": "Phú Riềng, Phước Long, Bình Phước",
+        "moTa": "Đền, kiến trúc và lịch sử",
+        "tenDiaDiem": "Đền thờ vua Hùng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhPhuoc%2Fden%20tho%20vua%20hung.jpg?alt=media&token=220b5ffc-13ea-4a07-a36d-1d8ce3856d0d"
+      }
+    },
+    "Bình Thuận": {
+      "location1": {
+        "diaChi": "khu phố 4, Thành phố Phan Thiết, Bình Thuận",
+        "moTa": "khu phố 4, Thành phố Phan Thiết, Bình Thuận",
+        "tenDiaDiem": "Suối Tiên, Mũi Né",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhThuan%2Fsuoi%20tien%20mui%20ne.jpg?alt=media&token=21073ce5-e2ef-4a48-bfdc-a1b6210a3653"
+      },
+      "location2": {
+        "diaChi": "tỉnh Bình Thuận",
+        "moTa": "Hòn đảo lởm chởm đá có dân cư thưa thớt",
+        "tenDiaDiem": "Phú Quý",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhThuan%2Fphu%20quy.jpg?alt=media&token=1b3e4ab1-67fc-4954-bd12-af80a6ca5494"
+      },
+      "location3": {
+        "diaChi": "xã Tân lập, huyện Hàm Thuận Nam",
+        "moTa": "Địa điểm leo núi nổi tiếng với tượng Phật",
+        "tenDiaDiem": "Núi Tà Cú",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhThuan%2Fnui%20ta%20cu.jpg?alt=media&token=8750e2ac-24c0-4929-803b-7ae40a1ec454"
+      },
+      "location4": {
+        "diaChi": "01 Hòn Rơm, Thành phố Phan Thiết, Bình Thuận",
+        "moTa": "Đồi cát đỏ, nơi ngắm cảnh hoàng hôn",
+        "tenDiaDiem": "Đồi Cát Đỏ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhThuan%2Fdoi%20cat%20do.jpg?alt=media&token=7c2ff234-235d-4a14-89cd-9034f1db3a6a"
+      },
+      "location5": {
+        "diaChi": "Xã Hòa Thắng, Huyện Bắc Bình",
+        "moTa": "Hồ nước có cồn cát hoang mạc bao quanh",
+        "tenDiaDiem": "Bàu Trắng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhThuan%2Fbau%20trang.jpg?alt=media&token=b51d59f8-51ef-45ba-a983-229b40d4508c"
+      }
+    },
+    "Bình Định": {
+      "location1": {
+        "diaChi": "Nhơn Lý, Thành phố Qui Nhơn, Bình Định",
+        "moTa": "bãi biển",
+        "tenDiaDiem": "Bãi Kỳ Co",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDinh%2Fbai%20ky%20co.jpg?alt=media&token=64fe3029-0329-4b5f-be25-93458b24fc82"
+      },
+      "location2": {
+        "diaChi": "Ghềnh Ráng, Thành phố Qui Nhơn, Ghềnh Ráng Thành phố Qui Nhơn Bình Định",
+        "moTa": "Bãi biển đá với tầm nhìn hút mắt",
+        "tenDiaDiem": "Bãi tắm Hoàng Hậu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDinh%2Fbai%20tam%20hoang%20hau.jpg?alt=media&token=3fbfa012-7867-4869-b000-a26858e9c991"
+      },
+      "location3": {
+        "diaChi": "Phước Hiệp, Tuy Phước, Bình Định",
+        "moTa": "Cụm đền xây bằng gạch có tầm nhìn đẹp",
+        "tenDiaDiem": "Tháp Chăm Bánh Ít",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDinh%2Fthap%20cham%20banh%20it.jpg?alt=media&token=c98cf5b0-71b2-4bb1-84b3-3f723d675bfe"
+      },
+      "location4": {
+        "diaChi": "xã đảo Nhơn Châu, thành phố Quy Nhơn, tỉnh Bình Định",
+        "moTa": "Hòn đảo yên bình có bãi biển và khách sạn",
+        "tenDiaDiem": "Cù lao Xanh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDinh%2Fcu%20lao%20xanh.jpg?alt=media&token=478f6339-c9e1-415c-b40a-bfc94ef35958"
+      },
+      "location5": {
+        "diaChi": "thành phố Quy Nhơn, tỉnh Bình Định",
+        "moTa": "Biển đầy cát có môn thể thao dưới nước, nhà hàng",
+        "tenDiaDiem": "Bãi biển Quy Nhơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BinhDinh%2Fbai%20bien%20quy%20nhon.jpg?alt=media&token=8137521b-5f9d-4ed6-861a-e4e698a57752"
+      }
+    },
+    "Bạc Liêu": {
+      "location1": {
+        "diaChi": "Đê Biển, Phường Nhà Mát, Bạc Liêu",
+        "moTa": "Điện thờ quanh tượng Bồ Tát cao vút",
+        "tenDiaDiem": "Quan Âm Phật Đài",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacLieu%2Fquan%20am%20phat%20dai.jpg?alt=media&token=958a3cd2-3800-4388-aa6c-302ad1ca9743"
+      },
+      "location2": {
+        "diaChi": "Ấp 2, QL1A, Tân Phong, Giá Rai, Bạc Liêu",
+        "moTa": "Lăng mộ và điện thờ của vị linh mục đáng kính",
+        "tenDiaDiem": "Thánh đường Tắc Sậy",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacLieu%2F1.Th%C3%A1nh-%C4%91%C6%B0%E1%BB%9Dng-T%E1%BA%AFc-S%E1%BA%ADy.jpg?alt=media&token=e56a4425-9a8c-43ec-9659-262a2dffdc3b"
+      },
+      "location3": {
+        "diaChi": "Phường Nhà Mát, Bạc Liêu",
+        "moTa": "Du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Vườn chim Bạc Liêu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacLieu%2Fvuon%20chim%20bac%20lieu.jpg?alt=media&token=7e07766f-fb72-43c2-aafb-56239fe873d3"
+      },
+      "location4": {
+        "diaChi": "ĐT31, Vĩnh Trach Đông, Bạc Liêu",
+        "moTa": "Kiến trúc và Đền",
+        "tenDiaDiem": "Chùa Xiêm Cán",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacLieu%2Fchua%20xiem%20can.jpg?alt=media&token=6eecea6a-592c-4ec2-89bd-583da093c828"
+      },
+      "location5": {
+        "diaChi": "13 Điện Biên Phủ, Phường 3, Bạc Liêu",
+        "moTa": "Kiến trúc",
+        "tenDiaDiem": "Nhà Công Tử Bạc Liêu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacLieu%2Fnha%20cong%20tu%20bac%20lieu.jpg?alt=media&token=3d2756c8-b95f-4caa-9380-45d01cea35a9"
+      }
+    },
+    "Bắc Giang": {
+      "location1": {
+        "diaChi": "An Lạc, Sơn Động, Bắc Giang",
+        "moTa": "Rừng, du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Khu DL Sinh thái Khe Rỗ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacGiang%2FKhu%20DL%20khe%20ro.jpg?alt=media&token=0451d2b5-2824-4cc3-b510-e17534ea747b"
+      },
+      "location2": {
+        "diaChi": "Đường đê, Tiên Sơn, Việt Yên, Bắc Giang",
+        "moTa": "Quần thể chùa tôn nghiêm có những khu vườn",
+        "tenDiaDiem": "Chùa Bổ Đà",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacGiang%2Fchua%20bo%20da.jpg?alt=media&token=30284078-4b0d-47e2-a7f6-228ac800d737"
+      },
+      "location3": {
+        "diaChi": "xã Kiên Lao, huyện Lục Ngạn, tỉnh Bắc Giang",
+        "moTa": "Hồ và tự nhiên",
+        "tenDiaDiem": "Hồ Khuôn Thần",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacGiang%2Fho%20khuon%20than.jpg?alt=media&token=9cb13fde-e323-49fd-846c-dced987d1df3"
+      },
+      "location4": {
+        "diaChi": "Tuấn Mậu, Sơn Động, Bắc Giang",
+        "moTa": "đền",
+        "tenDiaDiem": "Chùa Hạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacGiang%2Fchua%20ha.jpg?alt=media&token=38a58679-ab58-4eae-9195-59694159e14d"
+      },
+      "location5": {
+        "diaChi": "Đồng Cao, Sơn Động, Bắc Giang",
+        "moTa": "Cắm trại",
+        "tenDiaDiem": "Cao nguyên Đồng Cao",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacGiang%2Fcao%20nguyen%20dong%20cao.jpg?alt=media&token=5ee1d4b5-fb00-4a32-a6a3-f10f3d65e166"
+      }
+    },
+    "Bắc Kạn": {
+      "location1": {
+        "diaChi": "xã Nam Mẫu, huyện Ba Bể, tỉnh Bắc Kạn",
+        "moTa": "Hồ đẹp nằm trong rừng và thác nước",
+        "tenDiaDiem": "Hồ Ba Bể",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacKan%2FHo%20ba%20be.jpg?alt=media&token=14833a0c-eae9-45fb-9f54-6785f10c5be2"
+      },
+      "location2": {
+        "diaChi": "Cao Trĩ, huyện Ba Bể, tỉnh Bắc Kạn",
+        "moTa": "Khu bảo tồn tự nhiên có hồ và hang động",
+        "tenDiaDiem": "Vườn Quốc gia Ba Bể",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacKan%2Fvuon%20quoc%20gia%20ba%20be.jpg?alt=media&token=041b564a-526e-4887-a4cb-f6f148eee187"
+      },
+      "location3": {
+        "diaChi": "bản Pắc Ngòi, xã Quảng Khê, huyện Ba Bể, tỉnh Bắc Kạn",
+        "moTa": "Hang",
+        "tenDiaDiem": "Động Hua Mạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacKan%2Fdong%20hua%20ma.jpg?alt=media&token=7b8d5043-b36e-4338-b47b-2b6f3c916041"
+      },
+      "location4": {
+        "diaChi": "Nam Mẫu, Ba Bể, Bắc Kạn",
+        "moTa": "Hồ",
+        "tenDiaDiem": "Thác Đầu Đằng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacKan%2Fthac%20dau%20dang.jpg?alt=media&token=4bfe3857-cd02-4fa5-a20e-d843067d2e77"
+      },
+      "location5": {
+        "diaChi": "Xã Cao Kỳ, Huyện Chợ Mới, Cao Kỳ, Chợ Mới, Bắc Kạn",
+        "moTa": "Đền",
+        "tenDiaDiem": "Chùa Thạch Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacKan%2Fchua%20thach%20long.jpg?alt=media&token=505b42cb-d9ee-45a3-8268-5b1fdfa5fd70"
+      }
+    },
+    "Bắc Ninh": {
+      "location1": {
+        "diaChi": "Bút Tháp, Thuận Thành, Bắc Ninh",
+        "moTa": "Ngôi chùa cổ có nhiều bức tượng",
+        "tenDiaDiem": "Chùa Bút Tháp",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacNinh%2Fchua%20but%20thap.jpg?alt=media&token=759ba4a9-9242-443b-9723-451437096aef"
+      },
+      "location2": {
+        "diaChi": "Lạc Long Quân, Thanh Khương, Thuận Thành, Bắc Ninh",
+        "moTa": "Ngôi chùa cổ nhất Việt Nam",
+        "tenDiaDiem": "Chùa Dâu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacNinh%2Fchua%20dau.jpg?alt=media&token=65ec15dd-f956-4015-aa52-27a7b1a3619d"
+      },
+      "location3": {
+        "diaChi": "Lý Thái Tổ, Tân Hồng, Từ Sơn, Bắc Ninh",
+        "moTa": "Thắng cảnh đền thờ các vị vua nhà Lý",
+        "tenDiaDiem": "Đền Đô",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacNinh%2Fden%20do.jpg?alt=media&token=277fe1db-13ce-447e-b7bc-15841a58c5f8"
+      },
+      "location4": {
+        "diaChi": "P, Cổ Mễ, Bắc Ninh",
+        "moTa": "Ngôi đền tinh xảo có tượng lộng lẫy",
+        "tenDiaDiem": "Đền Bà Chúa Kho",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacNinh%2Fden%20ba%20chua%20kho.jpg?alt=media&token=72dc9ef1-e005-4f4c-9853-4a22202227b2"
+      },
+      "location5": {
+        "diaChi": "Nam Sơn, Bắc Ninh",
+        "moTa": "Đền, lịch sử, phật giáo và kiến trúc",
+        "tenDiaDiem": "Chùa Dạm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BacNinh%2Fchua%20dam.jpg?alt=media&token=4ed1509a-f5c3-4723-9d44-318f9735e64b"
+      }
+    },
+    "Bến Tre": {
+      "location1": {
+        "diaChi": "ĐT887, Phú Nhuận, Bến Tre",
+        "moTa": "Trung tâm hoạt động ngoài trời có nhà hàng",
+        "tenDiaDiem": "Khu Du lịch - Văn hóa & Thể thao Lan Vương",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BenTre%2FKDL%20lan%20vuong.jpg?alt=media&token=cc66978d-3fad-4982-a540-f461283ad82d"
+      },
+      "location2": {
+        "diaChi": "Ấp 10, Châu Thành, Bến Tre",
+        "moTa": "đảo",
+        "tenDiaDiem": "Cồn Phụng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BenTre%2Fcon%20phung.jpg?alt=media&token=56c6bcc1-e42c-474d-8719-7695c383120e"
+      },
+      "location3": {
+        "diaChi": "ấp Tân Vinh, Châu Thành, Bến Tre",
+        "moTa": "di tích lịch sử",
+        "tenDiaDiem": "Di tích Đạo dừa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BenTre%2Fdi%20tich%20dao%20dua.jpg?alt=media&token=8a28580c-4385-4c9d-8dbe-3aa2a1db60e7"
+      },
+      "location4": {
+        "diaChi": "Tân Mỹ, Ba Tri, Bến Tre",
+        "moTa": "Sân chim giữa miền nhiệt đới xanh tươi",
+        "tenDiaDiem": "Nông trại du lịch Sân Chim Vàm Hồ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BenTre%2Fsan%20chim%20vam%20ho.jpg?alt=media&token=a563a137-2a4e-4983-97f2-04c2dbffd5de"
+      },
+      "location5": {
+        "diaChi": "319 Phú Lợi, Bình Phú, Bến Tre",
+        "moTa": "khu du lịch",
+        "tenDiaDiem": "Du lịch Phú An Khang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/BenTre%2FPhu%20An%20Khang.jpg?alt=media&token=9d871999-c46e-4d04-aa0f-7db19c53169a"
+      }
+    },
+    "Cao Bằng": {
+      "location1": {
+        "diaChi": "Đường vào động Ngườm Ngao, Đàm Thuỷ, Trùng Khánh, Cao Bằng",
+        "moTa": "Hệ thống động hình thành nhờ sông ngầm",
+        "tenDiaDiem": "Động Ngườm Ngao",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaoBang%2Fdong%20nguom%20ngao.jpg?alt=media&token=33180804-578b-431c-bca5-babc16269850"
+      },
+      "location2": {
+        "diaChi": "Đàm Thuỷ, Trùng Khánh, Cao Bằng",
+        "moTa": "Thác, phật giáo và Đền",
+        "tenDiaDiem": "Chùa Phật Tích Trúc Lâm Bản Giốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaoBang%2Fchua%20phat%20tich.jpg?alt=media&token=b6aaf246-7971-41c8-a1b6-6d0f32f65f14"
+      },
+      "location3": {
+        "diaChi": "huyện Nguyên Bình, tỉnh Cao Bằng",
+        "moTa": "Núi, rừng và du lịch sinh thái",
+        "tenDiaDiem": "Vườn Quốc Gia Phia Oắc - Phia Đén",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaoBang%2Fvuon%20quoc%20gia%20phia%20oac.jpg?alt=media&token=fb2c9a54-bfef-4c71-9021-853d3e4a86cb"
+      },
+      "location4": {
+        "diaChi": "Đàm Thuỷ, Trùng Khánh, Cao Bằng",
+        "moTa": "thiên nhiên",
+        "tenDiaDiem": "Thác Bản Giốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaoBang%2Fthac%20ban%20gioc.jpg?alt=media&token=3ed88fe5-c697-4ba9-802a-26f0b11561e3"
+      },
+      "location5": {
+        "diaChi": "xã Quốc Toản, huyện Trà Lĩnh, tỉnh Cao Bằng",
+        "moTa": "Hồ nước xanh lục lam có cây cối tươi tốt",
+        "tenDiaDiem": "Hồ Thang Hen",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaoBang%2FHo%20thang%20hen.jpg?alt=media&token=92430338-dc39-477e-a989-6057f1434f5e"
+      }
+    },
+    "Cà Mau": {
+      "location1": {
+        "diaChi": "Ngọc Hiển, Cà Mau",
+        "moTa": "Chuyến tham quan rừng ngập mặn và ngắm chim",
+        "tenDiaDiem": "Vườn Quốc Gia Mũi Cà Mau",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaMau%2Fvuon%20quoc%20gia%20mui%20ca%20mau.jpg?alt=media&token=acc64726-d918-48b1-9e8c-2c3eba29d27f"
+      },
+      "location2": {
+        "diaChi": "ấp Vồ Dơi, Trần Văn Thời, Cà Mau",
+        "moTa": "Rừng ngập mặn lớn với động vật bản địa",
+        "tenDiaDiem": "Vườn Quốc Gia U Minh Hạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaMau%2Fvuon%20quoc%20gia%20u%20minh%20ha.jpg?alt=media&token=39288262-44e6-480d-89e7-1a49c83aa825"
+      },
+      "location3": {
+        "diaChi": " ấp Kinh Hòn, xã Khánh Bình Tây, huyện Trần Văn Thời, tỉnh Cà Mau",
+        "moTa": "Đảo",
+        "tenDiaDiem": "Hòn Đá Bạc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaMau%2Fhon%20da%20bac.jpg?alt=media&token=397eaae3-ae4d-4d13-80c3-7c2276f9da3d"
+      },
+      "location4": {
+        "diaChi": "Đất Mũi, Ngọc Hiển, Cà Mau",
+        "moTa": "khu du lịch thiên nhiên",
+        "tenDiaDiem": "Khu Du Lịch Khai Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaMau%2FKDL%20khai%20long.jpg?alt=media&token=1c1e7efd-efaa-4355-b786-9f3f7ea92a0b"
+      },
+      "location5": {
+        "diaChi": "Đất Mũi, Ngọc Hiển, Cà Mau",
+        "moTa": "kiến trúc",
+        "tenDiaDiem": "Cột cờ Hà Nội tại Đất Mũi Cà Mau",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CaMau%2Fcot%20co%20ha%20noi.jpg?alt=media&token=92bf5834-3ab9-48be-b380-76b75ee75ac3"
+      }
+    },
+    "Cần Thơ": {
+      "location1": {
+        "diaChi": "335 Lộ Vòng Cung, Mỹ Khánh, Phong Điền, Cần Thơ",
+        "moTa": "Khu nghỉ dưỡng xanh mát có vườn & các hoạt động",
+        "tenDiaDiem": "Làng Du lịch Mỹ Khánh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CanTho%2Flang%20du%20lich%20my%20khanh.jpg?alt=media&token=70fb695b-53c4-471d-aceb-501f545ad151"
+      },
+      "location2": {
+        "diaChi": "Bình Thuỷ, Bình Thủy, Cần Thơ",
+        "moTa": "di tích lịch sử",
+        "tenDiaDiem": "Nhà cổ Bình Thủy",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CanTho%2Fnha%20co%20binh%20thuy.jpg?alt=media&token=c2527729-9f76-4340-b19a-e4194b488221"
+      },
+      "location3": {
+        "diaChi": "Mỹ Khánh, Phong Điền, Cần Thơ",
+        "moTa": "Vườn cây, hồ nước và trung tâm thiền định",
+        "tenDiaDiem": "Thiền viện Trúc Lâm Phương Nam",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CanTho%2Fthien%20vien%20truc%20lam%20phuong%20nam.jpg?alt=media&token=de72504c-56ed-44b1-b53d-4e8b68657bc6"
+      },
+      "location4": {
+        "diaChi": "Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ",
+        "moTa": "Khu du lịch",
+        "tenDiaDiem": "Cồn Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CanTho%2Fcon%20son.jpg?alt=media&token=be955ba7-0fed-4a68-9d50-90ac307af493"
+      },
+      "location5": {
+        "diaChi": "Mỹ Khánh, Phong Điền, Cần Thơ",
+        "moTa": "địa điểm vui chơi, tham quan",
+        "tenDiaDiem": "Khu Du Lịch Sinh Thái Ông Đề",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/CanTho%2FKDL%20ong%20de.jpg?alt=media&token=f9acbcba-b6ec-4fda-95fe-6029109df9a0"
+      }
+    },
+    "Gia Lai": {
+      "location1": {
+        "diaChi": "thành phố Pleiku, tỉnh Gia Lai",
+        "moTa": "Hồ yên bình nhìn ra núi",
+        "tenDiaDiem": "Biển Hồ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/GiaLai%2Fbien%20ho.jpg?alt=media&token=2b97dd68-7659-4ecc-b9be-8b58819859f3"
+      },
+      "location2": {
+        "diaChi": "Chư Đang Ya, Chư Păh, Gia Lai",
+        "moTa": "Núi lửa và núi",
+        "tenDiaDiem": "Núi lửa Chư Đăng Ya",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/GiaLai%2Fnui%20lua%20chu%20dang%20ya.jpg?alt=media&token=4611bb7b-3ce5-4d22-8629-a2614bb1ac6e"
+      },
+      "location3": {
+        "diaChi": "348 Nguyễn Viết Xuân, P. Hội Phú, Thành phố Pleiku, Gia La",
+        "moTa": "Ngôi chùa tinh tế có khu vườn và hồ nước",
+        "tenDiaDiem": "Chùa Minh Thành",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/GiaLai%2Fchua%20minh%20thanh.jpg?alt=media&token=bd201c74-6c08-45da-af97-097bac31091f"
+      },
+      "location4": {
+        "diaChi": "Măng Yang, Gia Lai",
+        "moTa": "Rừng, du lich sinh thái, công viên và tự nhiên",
+        "tenDiaDiem": "Vườn quốc gia Kon Ka Kinh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/GiaLai%2Fvuon%20quoc%20gia%20kon%20ka%20kinh.jpg?alt=media&token=16b9988d-4763-4ada-b813-7db4bc7e67ce"
+      },
+      "location5": {
+        "diaChi": "P.Tây Sơn, Thành phố Pleiku, Gia Lai",
+        "moTa": "Quảng trường có tượng Hồ Chí Minh đồ sộ",
+        "tenDiaDiem": "Quảng trường Đại Đoàn Kết",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/GiaLai%2Fquang%20truong%20dai%20doan%20ket.jpg?alt=media&token=b611ffae-d279-420c-b86f-af8347cb81bb"
+      }
+    },
+    "Hà Giang": {
+      "location1": {
+        "diaChi": "xã Pả Vi và Pải Lủng, huyện Mèo Vạc",
+        "moTa": "Đèo núi ở khu vực xa xôi",
+        "tenDiaDiem": "Đèo Mã Pí Lèng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaGiang%2FDeo%20ma%20pi%20leng.jpg?alt=media&token=10b2f54d-9173-4b2b-b4cb-a87b3d064592"
+      },
+      "location2": {
+        "diaChi": "Lũng Thầu, Đồng Văn, Hà Giang",
+        "moTa": "Công viên trập trùng nổi tiếng với cảnh đẹp",
+        "tenDiaDiem": "Cao nguyên đá Đồng Văn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaGiang%2Fcao%20nguyen%20da%20dong%20van.jpg?alt=media&token=d3476dc5-7ef0-44af-8917-497662b70290"
+      },
+      "location3": {
+        "diaChi": "Lũng Cú, Đồng Văn, Hà Giang",
+        "moTa": "Đài đánh dấu điểm cực bắc",
+        "tenDiaDiem": "Cột Cờ Lũng Cú",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaGiang%2Fcot%20co%20lung%20cu.jpg?alt=media&token=febddd64-91d8-4e84-87ad-3a9ee765110c"
+      },
+      "location4": {
+        "diaChi": "Quản Bạ, Hà Giang",
+        "moTa": "Đài quan sát toàn cảnh từ trên đỉnh núi",
+        "tenDiaDiem": "Cổng trời Quản Bạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaGiang%2Fcong%20troi%20quan%20ba.jpg?alt=media&token=916e538e-7375-416e-a36a-9a1f777da42f"
+      },
+      "location5": {
+        "diaChi": "Đồng Văn, Hà Giang",
+        "moTa": "Con đường cổ kính bán đồ ăn, đồ thủ công dân tộc",
+        "tenDiaDiem": "Khu phố cổ Đồng Văn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaGiang%2Fkhu%20pho%20co%20dong%20van.jpg?alt=media&token=d51bef60-3e3a-4fb2-8624-79f56ef3c55f"
+      }
+    },
+    "Hà Nam": {
+      "location1": {
+        "diaChi": "xã Khả Phong, huyện Kim Bảng, tỉnh Hà Nam",
+        "moTa": "Ngôi đền nhìn ra hồ nước và núi non",
+        "tenDiaDiem": "Đền Mẫu – Hồ Tam Chúc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNam%2Fden%20mau.jpg?alt=media&token=b821312c-e324-491f-b941-7c0076316985"
+      },
+      "location2": {
+        "diaChi": "Ba Sao, Kim Bảng, Hà Nam",
+        "moTa": "Tượng phật và tầm nhìn toàn cảnh vùng quê",
+        "tenDiaDiem": "Chùa Tam Chúc – Chùa Ngọc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNam%2Fchua%20tam%20truc.jpg?alt=media&token=bbe427d2-f06a-48e2-8269-c4355c7b71e9"
+      },
+      "location3": {
+        "diaChi": "thôn Đanh, xã Ngọc Sơn, huyện Kim Bảng, tỉnh Hà Nam., Quế, Kim Bảng, Hà Nam",
+        "moTa": "đền và lịch sử",
+        "tenDiaDiem": "Chùa Bà Đanh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNam%2Fchua%20ba%20danh.jpg?alt=media&token=7eeea88f-2044-407d-912c-1cc0a6354e3f"
+      },
+      "location4": {
+        "diaChi": "Liêm Sơn, Thanh Liêm, Hà Nam",
+        "moTa": "Quần thể chùa có rừng thông phía sau",
+        "tenDiaDiem": "Chùa Địa Tạng Phi Lai Tự ( Chùa Đùng)",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNam%2Fchua%20dung.jpg?alt=media&token=b881bb60-6e00-4add-8a77-e1f63065886f"
+      },
+      "location5": {
+        "diaChi": "Nghĩa trang nhân dân thôn Trần Thương, Nhân Đạo, Lý Nhân, Hà Nam",
+        "moTa": "Lịch sử và kiến trúc",
+        "tenDiaDiem": "Đền Trần Thương",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNam%2Fden%20tran%20thuong.jpg?alt=media&token=5866d3a5-0546-4cf6-b838-f856da1f6944"
+      }
+    },
+    "Hà Nội": {
+      "location1": {
+        "diaChi": "58 Quốc Tử Giám, Văn Miếu, Đống Đa, Hà Nội",
+        "moTa": "quần thể di tích lịch sử",
+        "tenDiaDiem": "Văn Miếu Quốc Tử Giám",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNoi%2Fvan%20mieu%20quoc%20tu%20giam.jpg?alt=media&token=55da4338-3e1e-4f21-97c0-d5a396c08da6"
+      },
+      "location2": {
+        "diaChi": "phường Hàng Trống, quận Hoàn Kiếm, Hà Nội",
+        "moTa": "Hồ nước với đền, cầu và tháp",
+        "tenDiaDiem": "Hồ Hoàn Kiếm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNoi%2Fho%20hoan%20kiem.jpg?alt=media&token=0f6ee3b2-c061-49da-a9ea-2233e98ddc2c"
+      },
+      "location3": {
+        "diaChi": "2 Hùng Vương, Điện Bàn, Ba Đình, Hà Nội",
+        "moTa": "nơi an nghỉ cuối cùng của Bác Hồ",
+        "tenDiaDiem": "Lăng Chủ tịch Hồ Chí Minh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNoi%2Flang%20chu%20tich%20Ho%20Chi%20Minh.jpg?alt=media&token=623be845-5846-4b72-bf58-e3a9cbd65e25"
+      },
+      "location4": {
+        "diaChi": "57B Đinh Tiên Hoàng, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+        "moTa": "nhà hát múa rối nước truyền thống",
+        "tenDiaDiem": "Nhà hát múa rối Thăng Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNoi%2Fnha%20hat%20mua%20roi%20thang%20long.jpg?alt=media&token=357b4247-ba74-427d-94a5-3c755bf0b68e"
+      },
+      "location5": {
+        "diaChi": "19C Hoàng Diệu, Điện Bàn, Ba Đình, Hà Nội",
+        "moTa": "Hoàng thành được xây dựng từ thế kỷ thứ 11",
+        "tenDiaDiem": "Hoàng Thành Thăng Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaNoi%2FHoang%20thanh%20thang%20long.jpg?alt=media&token=50601e92-7343-4c4d-8f3a-78507080ba86"
+      }
+    },
+    "Hà Tĩnh": {
+      "location1": {
+        "diaChi": "huyện Cẩm Xuyên, tỉnh Hà Tĩnh",
+        "moTa": "Bãi biển cát trắng và hải sản tươi",
+        "tenDiaDiem": "Bãi biển Thiên Cầm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaTinh%2Fbai%20bien%20thien%20cam.jpg?alt=media&token=0ebed233-284b-4aff-b61c-d86eee0491ef"
+      },
+      "location2": {
+        "diaChi": "Thiện Lộc, Can Lộc, Hà Tĩnh",
+        "moTa": "đền, kiến trúc và lịch sử",
+        "tenDiaDiem": "Chùa Hương Tích",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaTinh%2Fchua%20huong%20tich.jpg?alt=media&token=a8d02e14-2e38-43e1-bf5a-45c861bbecb9"
+      },
+      "location3": {
+        "diaChi": "Vũ Quang, Hà Tĩnh",
+        "moTa": "khu bảo tồn vùng núi trong rừng",
+        "tenDiaDiem": "Vườn quốc gia Vũ Quang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaTinh%2Fvuon%20quoc%20gia%20vu%20quang.jpg?alt=media&token=9f676268-7d43-40d3-b2ec-37a397fa5163"
+      },
+      "location4": {
+        "diaChi": "tọa lạc trên dãy núi Hoành Sơn",
+        "moTa": "Con đèo thích hợp để đạp xe và ngắm cảnh",
+        "tenDiaDiem": "Đèo Ngang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaTinh%2Fdeo%20ngang.jpg?alt=media&token=0e185557-1ac2-4bf8-a717-2ae20e92d118"
+      },
+      "location5": {
+        "diaChi": "Xã Đồng Lộc, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "moTa": "lịch sử",
+        "tenDiaDiem": "Ngã ba Đồng Lộc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaTinh%2Fnga%20ba%20dong%20loc.jpg?alt=media&token=d30f95a6-8b57-4ae5-a3b1-c63dedd6db37"
+      }
+    },
+    "Hòa Bình": {
+      "location1": {
+        "diaChi": "Hạ Bì, Kim Bôi, Hòa Bình",
+        "moTa": "khu nghỉ dưỡng có suối nóng, hồ tắm bùn",
+        "tenDiaDiem": "Suối khoáng Kim Bôi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HoaBinh%2Fsuoi%20khoang%20kim%20boi.jpg?alt=media&token=23cdf124-48e1-44e9-a2c0-ce8935eb2a7d"
+      },
+      "location2": {
+        "diaChi": "Xã Phú Cường, Huyện Tân Lạc, Tỉnh Hoà Bình",
+        "moTa": "đèo núi mù sương nhìn ra thung lũng",
+        "tenDiaDiem": "Đèo Thung Khe",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HoaBinh%2Fdeo%20thung%20khe.jpg?alt=media&token=fd4ca149-d634-4550-8c26-65232d9f3aad"
+      },
+      "location3": {
+        "diaChi": "Vầy Nưa, Đà Bắc, Hòa Bình",
+        "moTa": "Đền",
+        "tenDiaDiem": "Đền Chùa Thác Bờ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HoaBinh%2Fden%20chua%20thac%20bo.jpg?alt=media&token=c070588b-c2d0-42e6-a310-abaf4f940cc3"
+      },
+      "location4": {
+        "diaChi": "Nguyễn Huệ - phường Phương Lâm - TP Hoà Bình - Tỉnh Hoà Bình",
+        "moTa": "Hồ chứa nước có đảo và làng nhỏ",
+        "tenDiaDiem": "Hồ Hòa Bình",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HoaBinh%2Fho%20hoa%20binh.jpg?alt=media&token=6c0a353a-e108-4615-9b56-f7638ddad434"
+      },
+      "location5": {
+        "diaChi": "xã Tự Do, huyện Lạc Sơn, tỉnh Hòa Bình",
+        "moTa": "Thác nước trên núi có khu vực bơi lội",
+        "tenDiaDiem": "Suối Mu 2",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HoaBinh%2Fsuoi%20mu%202.jpg?alt=media&token=ceb271f7-f697-43f0-93db-ba341f3ae621"
+      }
+    },
+    "Hưng Yên": {
+      "location1": {
+        "diaChi": "thôn Yên Vĩnh, xã Dạ Trạch, huyện Khoái Châu, tỉnh Hưng Yên",
+        "moTa": "lịch sử và kiến trúc",
+        "tenDiaDiem": "Đền Dạ Trạch",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HungYen%2Fden%20da%20trach.jpg?alt=media&token=809797c4-10e8-4f86-a434-655900094b3d"
+      },
+      "location2": {
+        "diaChi": "Thôn Nôm, Văn Lâm, Hưng Yên",
+        "moTa": "đền và kiến trúc",
+        "tenDiaDiem": "Chùa Nôm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HungYen%2Fchua%20nom.jpg?alt=media&token=ebb71607-1a10-43ed-a0ad-7e54ffd8d567"
+      },
+      "location3": {
+        "diaChi": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên",
+        "moTa": "lịch sử và kiến trúc",
+        "tenDiaDiem": "Văn Miếu Xích Đằng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HungYen%2Fvan%20mieu%20xich%20dang.jpg?alt=media&token=abce6b02-77c5-4e58-b333-cef8baa9cb29"
+      },
+      "location4": {
+        "diaChi": "P. Hiền Nam, Hưng Yên",
+        "moTa": "đền, lịch sử và kiến trúc",
+        "tenDiaDiem": "Chùa Chuông",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HungYen%2Fchua%20chuong.jpg?alt=media&token=a69a4bd3-4961-4f27-90f3-08ca962a73c1"
+      },
+      "location5": {
+        "diaChi": "Số 2 Bãi Sậy, Quang Trung, Hưng Yên",
+        "moTa": "ngôi đền rộng lớn có tuổi đời hàng thế kỷ",
+        "tenDiaDiem": "Đền Mẫu Hưng Yên",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HungYen%2Fden%20mau%20hung%20yen.jpg?alt=media&token=91b45092-8113-4c6a-ad43-603fe0fe2801"
+      }
+    },
+    "Hải Dương": {
+      "location1": {
+        "diaChi": "Côn Sơn-Kiếp Bạc, Hưng Đạo, Chí Linh, Hải Dương",
+        "moTa": "Ngôi đền thờ phụng vị tướng nổi tiếng",
+        "tenDiaDiem": "Đền Kiếp Bạc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiDuong%2Fden%20kiep%20bac.jpg?alt=media&token=7b125320-ec71-45a9-a7a9-bd28614e8e86"
+      },
+      "location2": {
+        "diaChi": "Cộng Hoà, Chí Linh, Hải Dương ",
+        "moTa": "Đền, núi, lịch sử và kiến trúc",
+        "tenDiaDiem": "Chùa Côn Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiDuong%2Fchua%20con%20son.jpg?alt=media&token=0122a368-f239-4dbf-a81b-2d10d7404d36"
+      },
+      "location3": {
+        "diaChi": "Chi Lăng, Chi Lăng Nam, Thanh Miện, Hải Dương",
+        "moTa": "Du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Đảo Cò Chi Lăng Nam",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiDuong%2Fdao%20co%20chi%20lang%20nam.jpg?alt=media&token=380551c1-3d74-4d73-b92c-d2f756987638"
+      },
+      "location4": {
+        "diaChi": "xã Cộng Hòa, huyện, Cộng Hoà, Chí Linh, Hải Dương",
+        "moTa": "Đền, kiến trúc và lịch sử",
+        "tenDiaDiem": "Ức Trai Linh Từ - Đền thờ Nguyễn Trãi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiDuong%2Fden%20tho%20nguyen%20trai.jpg?alt=media&token=b78d7707-36be-45ff-988c-270a5a0062fd"
+      },
+      "location5": {
+        "diaChi": "QL5, Cẩm Điền, Cẩm Giàng, Hải Dương",
+        "moTa": "Đền, lịch sử và kiến trúc",
+        "tenDiaDiem": "Văn miếu Mao Điền",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiDuong%2Fvan%20mieu%20mao%20dien.jpg?alt=media&token=0b44e785-fa56-4f3e-9a76-e3deba7c9a60"
+      }
+    },
+    "Hải Phòng": {
+      "location1": {
+        "diaChi": "ngoài khơi thành phố Hải Phòng",
+        "moTa": "Vùng vịnh tuyệt đẹp có hòn đảo nhô cao",
+        "tenDiaDiem": "Vịnh Lan Hạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiPhong%2Fvinh%20lan%20ha.jpg?alt=media&token=7bf4732c-b867-4a49-9f91-c1ffc84bebdf"
+      },
+      "location2": {
+        "diaChi": "Trân Châu, Cát Hải, Hải Phòng",
+        "moTa": "Khu bảo tồn linh trưởng quý hiếm",
+        "tenDiaDiem": "Vườn quốc gia Cát Bà",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiPhong%2Fvuon%20quoc%20gia%20cat%20ba.jpg?alt=media&token=2fe3fe5b-8f3f-4959-96c2-551c50774640"
+      },
+      "location3": {
+        "diaChi": "xã Trường Thành, huyện An Lão",
+        "moTa": "Lịch sử và tự nhiên",
+        "tenDiaDiem": "Núi Voi, An Lão",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiPhong%2Fnui%20voi%2C%20an%20lao.jpg?alt=media&token=98f1ac25-1d57-4df9-b012-0f2711a3280e"
+      },
+      "location4": {
+        "diaChi": "66 Điện Biên Phủ, Minh Khai, Hồng Bàng, Hải Phòng",
+        "moTa": "Viện bảo tàng",
+        "tenDiaDiem": "Bảo tàng Hải Phòng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiPhong%2Fbao%20tang%20hai%20phong.jpg?alt=media&token=9c0709b4-e76b-480e-a2af-025790609f9a"
+      },
+      "location5": {
+        "diaChi": "121 Dư Hàng, Hồ Nam, Lê Chân, Hải Phòng",
+        "moTa": "Kiến trúc",
+        "tenDiaDiem": "Chùa Dư Hàng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HaiPhong%2Fchua%20du%20hang.jpg?alt=media&token=01d0f7dc-3796-43b2-a706-272cddd4b949"
+      }
+    },
+    "Hậu Giang": {
+      "location1": {
+        "diaChi": "QL1A, Tân Phú Thạnh, Châu Thành A, Hậu Giang",
+        "moTa": "khu vui chơi giải trí",
+        "tenDiaDiem": "Công viên giải trí KITTYD & MINNIED",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HauGiang%2Fkittyd%20va%20minnied.jpg?alt=media&token=ce7274e7-315d-49f8-9569-3f36d1b695ad"
+      },
+      "location2": {
+        "diaChi": "Phường 5, Vị Thanh, Hậu Giang",
+        "moTa": "địa điểm đi dạo, tham quan",
+        "tenDiaDiem": "Khu đô thị Cát Tường Western Pearl",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HauGiang%2Fkhu%20do%20thi%20cat%20tuong.jpg?alt=media&token=8aa1f224-377e-4ba3-bf4c-4bc247ebcf7d"
+      },
+      "location3": {
+        "diaChi": "Thạnh Hoà, Phụng Hiệp, Hậu Giang",
+        "moTa": "khu sinh thái, dã ngoại",
+        "tenDiaDiem": "Bamboo Garden",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HauGiang%2Fbamboo%20garden.jpg?alt=media&token=78cbeb91-5f82-48f8-b6a9-3655e1201d25"
+      },
+      "location4": {
+        "diaChi": "tỉnh Hậu Giang",
+        "moTa": "ngồi thuyền chiêm ngưỡng cảnh sông nước",
+        "tenDiaDiem": "Kênh Xáng Xà No",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HauGiang%2Fkenh%20xang%20xa%20no.jpg?alt=media&token=f504fcc7-b339-499a-a079-8234ea6267a3"
+      },
+      "location5": {
+        "diaChi": "QL61, Thanh Xuân, Châu Thành A, Hậu Giang",
+        "moTa": "lịch sử",
+        "tenDiaDiem": "Khu di tích chiến thắng Tầm Vu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/HauGiang%2Fkhu%20di%20tich%20chien%20thang%20tam%20vu.jpg?alt=media&token=09750a05-6a00-422e-8634-c84a7b94095b"
+      }
+    },
+    "Khánh Hòa": {
+      "location1": {
+        "diaChi": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa",
+        "moTa": "ngôi đền trên triền núi với đồ trưng bày",
+        "tenDiaDiem": "Tháp Bà Ponagar",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KhanhHoa%2Fthap%20ba%20ponagar.jpg?alt=media&token=d2a9c0ab-989d-43e6-bf78-f8cd1cffc13c"
+      },
+      "location2": {
+        "diaChi": "phường Phương Sơn, thành phố Nha Trang, tỉnh Khánh Hòa",
+        "moTa": "ngôi chùa với tượng Phật trên đỉnh đồi",
+        "tenDiaDiem": "Chùa Long Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KhanhHoa%2Fchua%20long%20son.jpg?alt=media&token=f553331d-c475-4edc-8827-9b45528fcd27"
+      },
+      "location3": {
+        "diaChi": "xã Cam Bình, thành phố Cam Ranh, tỉnh Khánh Hòa",
+        "moTa": "hòn đảo nhỏ có khu câu cá và bơi lội",
+        "tenDiaDiem": "Đảo Bình Ba",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KhanhHoa%2Fdao%20binh%20ba.jpg?alt=media&token=689c52e7-644f-418b-ba30-f3747b4f4e0a"
+      },
+      "location4": {
+        "diaChi": "phía Đông Nam của đảo Bồng Nguyên",
+        "moTa": "hòn đảo nhỏ nổi tiếng với những mỏm đá đen tuyền",
+        "tenDiaDiem": "Hòn Mun",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KhanhHoa%2Fhon%20mun.jpg?alt=media&token=22b75e0e-870b-42c6-ac8f-8edab96a775f"
+      },
+      "location5": {
+        "diaChi": "Phước Tân, Nha Trang, Khánh Hòa",
+        "moTa": "nhà thờ chính tòa, kiến trúc, nhà thờ kitô giáo, kiến trúc gothic và lịch sử",
+        "tenDiaDiem": "Nhà Thờ Núi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KhanhHoa%2Fnha%20tho%20nui.jpg?alt=media&token=0c2ca1da-f8a4-4155-9d3d-9ccc14afa4a6"
+      }
+    },
+    "Kiên Giang": {
+      "location1": {
+        "diaChi": "ấp Bãi Sao, thị trấn An Thới, huyện Phú Quốc, tỉnh Kiên Giang",
+        "moTa": "biển cát trắng nổi tiếng với hoạt động giải trí",
+        "tenDiaDiem": "Bãi tắm Sao",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KienGiang%2Fbai%20tam%20sao.jpg?alt=media&token=7a47c122-7080-4042-a425-25fe47266c37"
+      },
+      "location2": {
+        "diaChi": "huyện Kiên Hải, tỉnh Kiên Giang",
+        "moTa": "quần đảo nhiệt đới có khu nghỉ dưỡng",
+        "tenDiaDiem": "Đảo Nam Du",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KienGiang%2Fdao%20nam%20du.jpg?alt=media&token=bde17b6e-1c2e-45af-afe8-d0799d74dd4c"
+      },
+      "location3": {
+        "diaChi": "Bãi Dài, Gành Dầu, Phú Quốc, Kiên Giang",
+        "moTa": "công viên hoang dã có môi trường sống mở",
+        "tenDiaDiem": "Vinpearl Safari Phú Quốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KienGiang%2Fvinpearl%20safari%20phu%20quoc.jpg?alt=media&token=eac2bf59-49d2-42ee-a523-744e16e51784"
+      },
+      "location4": {
+        "diaChi": "Bãi Đất Đỏ, Phú Quốc, Kiên Giang",
+        "moTa": "Trạm cáp treo theo chủ đề La Mã",
+        "tenDiaDiem": "Cáp treo Hòn Thơm – Ga An Thới",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KienGiang%2Fcap%20treo%20hon%20thom.jpg?alt=media&token=dd5dac34-3b2c-4a89-b914-75b4a704c1e7"
+      },
+      "location5": {
+        "diaChi": "Huyện Phú Quốc, Kiên Giang",
+        "moTa": "công viên sinh thái & khu bảo tồn động vật",
+        "tenDiaDiem": "Vườn quốc gia Phú Quốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KienGiang%2Fvuon%20quoc%20gia%20phu%20quoc.jpg?alt=media&token=5ce8293b-0ec9-4130-9c1f-714eecb39cb2"
+      }
+    },
+    "Kon Tum": {
+      "location1": {
+        "diaChi": "Đắk Long, Kon Plông, Kon Tum",
+        "moTa": "khu du lịch sinh thái, có thác nước hùng vĩ",
+        "tenDiaDiem": "Khu du lịch Thác Pa Sỹ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KonTum%2FKDL%20thac%20pa%20sy.jpg?alt=media&token=39b64416-6f4f-4111-be8c-6c03ef6f7bf7"
+      },
+      "location2": {
+        "diaChi": "Thắng Lợi, Kon Tum",
+        "moTa": "du lịch văn hóa",
+        "tenDiaDiem": "Nhà Rông Konklor Kon Tum",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KonTum%2Fnha%20rong%20konklor%20kon.jpg?alt=media&token=11f554af-6f53-473b-8b34-0165ecbc8521"
+      },
+      "location3": {
+        "diaChi": "Nguyễn Huệ, Thống Nhất, Kon Tum",
+        "moTa": "Nhà thờ chính tòa, kiến trúc và lịch sử",
+        "tenDiaDiem": "Nhà thờ gỗ Kon Tum",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KonTum%2Fnha%20tho%20go%20kontum.jpg?alt=media&token=153f7b88-cfab-46ec-9eb7-c2ba3d93f32f"
+      },
+      "location4": {
+        "diaChi": "huyện Kon Plông, tỉnh Kontum",
+        "moTa": "thiên nhiên, hồ",
+        "tenDiaDiem": "Hồ Đăk Ke",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KonTum%2Fho%20dak%20ke.jpg?alt=media&token=f4e60b72-d8e5-4fda-91cb-b72bc48060d7"
+      },
+      "location5": {
+        "diaChi": "xã Đắk Long, huyện Kon Plông, tỉnh Kon Tum",
+        "moTa": "kiến trúc",
+        "tenDiaDiem": "Chùa Khánh Lâm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/KonTum%2Fchua%20khanh%20lam.jpg?alt=media&token=658106ab-5a9c-4290-a079-d4375e99fd42"
+      }
+    },
+    "Lai Châu": {
+      "location1": {
+        "diaChi": "tỉnh Lai Châu",
+        "moTa": "Núi có đường mòn và cáp treo",
+        "tenDiaDiem": "Phan Xi Păng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaiChau%2Fphan%20xi%20pang.jpg?alt=media&token=34637dce-b640-412c-bc5e-a94871a184db"
+      },
+      "location2": {
+        "diaChi": "quốc lộ 4D, tỉnh Lai Châu",
+        "moTa": "đèo núi dài có tầm nhìn ra thung lũng",
+        "tenDiaDiem": "Đèo Ô Quy Hồ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaiChau%2Fdeo%20o%20quy%20ho.jpg?alt=media&token=e491e5f8-b24d-4df2-90f8-59efc4b71939"
+      },
+      "location3": {
+        "diaChi": "Trung Lèng Hồ, Bát Xát, Lào Cai",
+        "moTa": "Ngọn núi gồ ghề có đường xuyên rừng",
+        "tenDiaDiem": "Kỳ Quan San (Bạch Mộc Lương Tử)",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaiChau%2Fky%20quan%20san.jpg?alt=media&token=f709a5d1-dbca-44c6-893e-d06f3c2d1a11"
+      },
+      "location4": {
+        "diaChi": "Dãy Hoàng Liên Sơn nằm giữa Hồng và sông Đà",
+        "moTa": "dãy núi xanh thơ mộng",
+        "tenDiaDiem": "Dãy Hoàng Liên Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaiChau%2Fhoang%20lien%20son.jpg?alt=media&token=e2a46ef4-5d01-4285-895f-97a44b178fc5"
+      },
+      "location5": {
+        "diaChi": "TT. Tam Đường, Tam Đường, Lai Châu",
+        "moTa": "thiên nhiên, thác nước",
+        "tenDiaDiem": "Thác Tác Tình",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaiChau%2Fthac%20tac%20tinh.jpg?alt=media&token=b98d708b-6c30-467c-a628-ad436bc681aa"
+      }
+    },
+    "Long An": {
+      "location1": {
+        "diaChi": "thuộc huyện Mộc Hóa, tỉnh Long An",
+        "moTa": "rừng, du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Rừng Tràm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LongAn%2Frung%20tram.jpg?alt=media&token=5d14a7d0-e85e-4c6d-826d-c5fadd5eb7b9"
+      },
+      "location2": {
+        "diaChi": "Tân Hưng, Vĩnh Lợi, Tân Hưng, Long An",
+        "moTa": "đất ngập nước, du lịch sinh thái, tự nhiên, rừng và khu bảo tồn",
+        "tenDiaDiem": "Khu bảo tồn đất ngập nước Láng Sen",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LongAn%2Fkhu%20bao%20ton%20dat%20ngap%20nuoc%20lang%20sen.jpg?alt=media&token=b81e2de3-132a-411c-8639-9564b08b838e"
+      },
+      "location3": {
+        "diaChi": "Mỹ Hạnh Bắc, Đức Hòa, Long An",
+        "moTa": "mô hình thu nhỏ của các địa danh trên thế giới",
+        "tenDiaDiem": "Công viên 7 Kỳ Quan",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LongAn%2Fcong%20vien%207%20ky%20quan.jpg?alt=media&token=1b88a43e-3bda-4de6-8427-6c8c6ceed718"
+      },
+      "location4": {
+        "diaChi": "Hựu Thạnh, Đức Hòa, Long An",
+        "moTa": "thắng cảnh",
+        "tenDiaDiem": "Làng Cổ Phước Lộc Thọ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LongAn%2Flang%20co%20phuoc%20loc%20tho.jpg?alt=media&token=f9809629-b41e-49d8-a18e-ea6bf76dd4ff"
+      },
+      "location5": {
+        "diaChi": "Ấp Thanh Ba, Cần Giuộc, Long An",
+        "moTa": "lịch sử, đền và phật giáo",
+        "tenDiaDiem": "Chùa Tôn Thạnh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LongAn%2Fchua%20ton%20thanh.jpg?alt=media&token=369c9eb9-673e-4bd7-a62b-03bd38910f04"
+      }
+    },
+    "Lào Cai": {
+      "location1": {
+        "diaChi": "Mường Hoa, TT. Sa Pa, Sa Pa, Lào Cai",
+        "moTa": "lặn lội giữa đồng lúa và làng mạc",
+        "tenDiaDiem": "Thung Lũng Mường Hoa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaoCai%2Fthung%20lung%20muong%20hoa.jpg?alt=media&token=cc4334a5-9b35-4ee2-9803-f719115d6a7d"
+      },
+      "location2": {
+        "diaChi": "TT. Sa Pa, Sa Pa, Lào Cai",
+        "moTa": "tuyến cáp treo lên đỉnh Fansipan",
+        "tenDiaDiem": "Ga cáp treo SUN WORLD FANSIPAN LEGEND",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaoCai%2Fcap%20treo.jpg?alt=media&token=8078bad0-dd10-42d7-99c1-5d906a8fb1b9"
+      },
+      "location3": {
+        "diaChi": "phường Sapa, thị xã Sapa, tỉnh Lào Cai",
+        "moTa": "Ngọn núi nhìn ra Sapa với đường mòn tự nhiên",
+        "tenDiaDiem": "Núi Hàm Rồng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaoCai%2Fnui%20ham%20rong.jpg?alt=media&token=6203a2db-2e5e-4999-a51c-064626041ca3"
+      },
+      "location4": {
+        "diaChi": "San Sả Hồ, Sa Pa, Lào Cai",
+        "moTa": "địa điểm tham quan, lịch sử",
+        "tenDiaDiem": "Nóc Nhà Đông Dương",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaoCai%2Fnoc%20nha%20dong%20duong.jpg?alt=media&token=9cac7e4e-67fc-4eff-a807-59a853d015f8"
+      },
+      "location5": {
+        "diaChi": "TT. Sa Pa, Sa Pa, Lào Cai",
+        "moTa": "nhà thờ công giáo có tháp chuông bằng đá",
+        "tenDiaDiem": "Nhà thờ Đá Sapa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LaoCai%2Fnha%20tho%20da%20sapa.jpg?alt=media&token=1a34c117-3530-4931-bfd0-43c52d87748c"
+      }
+    },
+    "Lâm Đồng": {
+      "location1": {
+        "diaChi": "03 Đường Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng",
+        "moTa": "nhà khách có lối kiến trúc kỳ dị",
+        "tenDiaDiem": "Biệt thự du lịch Hằng Nga – Crazy House",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LamDong%2Fcrazy%20house.jpg?alt=media&token=ba7afb6d-62a2-4abe-a1d6-088a3c5ced8a"
+      },
+      "location2": {
+        "diaChi": "tỉnh Lâm Đồng",
+        "moTa": "khu vực ngắm chim & đi bộ",
+        "tenDiaDiem": "Vườn Quốc gia Cát Tiên",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LamDong%2Fvuon%20quoc%20gia%20cat%20tien.jpg?alt=media&token=d2228d8a-6fad-47c8-9adc-b3335b504212"
+      },
+      "location3": {
+        "diaChi": "QL20 Đèo Prenn, Phường 3, Thành phố Đà Lạt, Lâm Đồng",
+        "moTa": "thác nước nhỏ có khu vui chơi và đi bộ",
+        "tenDiaDiem": "Khu du lịch Thác Datanla",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LamDong%2Fthac%20datanla.jpg?alt=media&token=b83847b9-58e7-4805-bfd6-5f5fff4f1a3c"
+      },
+      "location4": {
+        "diaChi": "120 Tự Phước thuộc phường 11 thành phố Đà Lạt tỉnh Lâm Đồng",
+        "moTa": "ngôi chùa khảm thủy tinh và gốm sứ",
+        "tenDiaDiem": "Chùa Linh Phước",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LamDong%2Fchua%20linh%20phuoc.jpg?alt=media&token=42f8d863-f609-4a3a-80f1-c50cdf3a5d0b"
+      },
+      "location5": {
+        "diaChi": "số 7 đường Mai Anh Đào, phường 8, thành phố Đà Lạt",
+        "moTa": "công viên huyền ảo có vườn cây & hồ nước",
+        "tenDiaDiem": "Thung lũng tình yêu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LamDong%2Fthung%20lung%20tinh%20yeu.jpg?alt=media&token=71f3d917-7d45-44d1-84df-933f43899ebb"
+      }
+    },
+    "Lạng Sơn": {
+      "location1": {
+        "diaChi": "Lộc Bình, Lạng Sơn",
+        "moTa": "ngọn núi có tàn tích của căn cứ quân sự",
+        "tenDiaDiem": "Mẫu Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LangSon%2Fmau%20son.jpg?alt=media&token=29de12d2-90dc-46f7-80ea-1c90b431b5e4"
+      },
+      "location2": {
+        "diaChi": "TT. Đồng Đăng, Cao Lộc, Lạng Sơn",
+        "moTa": "đền, kiến trúc",
+        "tenDiaDiem": "Đền mẫu Đồng Đăng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LangSon%2Fden%20mau%20dong%20dang.jpg?alt=media&token=e68bcda9-7f62-4a9e-9cf5-3c9d22f508df"
+      },
+      "location3": {
+        "diaChi": "phường Tam Thanh, thành phố Lạng Sơn, tỉnh Lạng Sơn",
+        "moTa": "chùa phật giáo trong hang đá vôi",
+        "tenDiaDiem": "Chùa Tam Thanh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LangSon%2Fchua%20tam%20thanh.jpg?alt=media&token=be05dba1-afbb-43ed-91b1-194f80f612bd"
+      },
+      "location4": {
+        "diaChi": "xã Mẫu Sơn, huyện Cao Lộc",
+        "moTa": "núi cao, có thể ngắm tuyết vào mùa đông",
+        "tenDiaDiem": "Đỉnh Mẫu Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LangSon%2Fdinh%20mau%20son.jpg?alt=media&token=e16d11ab-c1ca-4576-9efd-5c517712fcf1"
+      },
+      "location5": {
+        "diaChi": "Đông Lâm, Hữu Liên, Hữu Lũng, Lạng Sơn",
+        "moTa": "khu vực cắm trại",
+        "tenDiaDiem": "Thảo nguyên Đồng Lâm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/LangSon%2Fthao%20nguyen%20dong%20lam.jpg?alt=media&token=46e43ad5-6caf-46eb-940f-54630d5ac54b"
+      }
+    },
+    "Nam Định": {
+      "location1": {
+        "diaChi": "Giao Thiện, Giao Thuỷ, Nam Định",
+        "moTa": "rừng ngập mặn, chim quý hiếm và chuyến đi thuyền",
+        "tenDiaDiem": "Vườn quốc gia Xuân Thủy",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NamDinh%2Fvuon%20quoc%20gia%20xuan%20thuy.jpg?alt=media&token=8dd2641b-fbe6-4e42-b09e-7bb8518ec5cf"
+      },
+      "location2": {
+        "diaChi": "Trần Thừa, Lộc Vượng, TP. Nam Định, Nam Định",
+        "moTa": "khu tổ hợp đền thờ có lễ hội hằng năm",
+        "tenDiaDiem": "Đền Cố Trạch",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NamDinh%2Fden%20co%20trach.jpg?alt=media&token=1b44f46f-a6e7-4b0d-8d7b-068d51338cbd"
+      },
+      "location3": {
+        "diaChi": "Đê biển, TT. Thịnh Long, Hải Hậu, Nam Định",
+        "moTa": "bãi biển sạch có bờ cát mịn",
+        "tenDiaDiem": "Bãi biển Thịnh Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NamDinh%2Fbai%20bien%20thinh%20long.jpg?alt=media&token=bcf31b39-ec7c-47cc-925d-1f0aa52371da"
+      },
+      "location4": {
+        "diaChi": "Xuân Phương, Xuân Trường, Nam Định",
+        "moTa": "Vương cung thánh đường, nhà thờ kitô giáo và kiến trúc",
+        "tenDiaDiem": "Vương Cung Thánh Đường Phú Nhai",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NamDinh%2Fvuong%20cung%20thanh%20duong%20phu%20nhai.jpg?alt=media&token=70293aa7-5770-40df-a487-92c20d0fbe7e"
+      },
+      "location5": {
+        "diaChi": "Tân Giang, Trực Ninh, Nam Định",
+        "moTa": "kiến trúc, lịch sử và phật giáo",
+        "tenDiaDiem": "Chùa Cổ Lễ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NamDinh%2Fchua%20co%20le.jpg?alt=media&token=29532679-6b2d-4e6d-9721-f60cdcc519fa"
+      }
+    },
+    "Nghệ An": {
+      "location1": {
+        "diaChi": "thị xã Cửa Lò, tỉnh Nghệ An",
+        "moTa": "bãi biển ở thị trấn nghỉ dưỡng và khách sạn",
+        "tenDiaDiem": "Bãi biển Cửa Lò",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NgheAn%2Fbai%20bien%20cua%20lo.jpg?alt=media&token=255a151c-52db-4ae7-8b5c-c12bfb0adc22"
+      },
+      "location2": {
+        "diaChi": "Quốc Lộ 46, Kim Liên, Nam Đàn, Nghệ An",
+        "moTa": "khu vực bảo tàng về Hồ Chí Minh",
+        "tenDiaDiem": "Khu Di tích Kim Liên",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NgheAn%2Fkhu%20di%20tich%20kiem%20lien.jpg?alt=media&token=8ae85aa9-6c1d-4d17-82be-9a1ae97d0252"
+      },
+      "location3": {
+        "diaChi": "Lục Dạ, Con Cuông, Nghệ An",
+        "moTa": "thác, thiên nhiên",
+        "tenDiaDiem": "Thác Khe Kèm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NgheAn%2Fthac%20khe%20kem.jpg?alt=media&token=da7f6564-b4ec-4e2b-9a5b-f52c4e400034"
+      },
+      "location4": {
+        "diaChi": "Hưng Thịnh, Hưng Nguyên, Nghệ An",
+        "moTa": "kiến trúc",
+        "tenDiaDiem": "Đền ông Hoàng Mười",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NgheAn%2Fden%20ong%20hoang%20muoi.jpg?alt=media&token=09ec3c8f-4ccb-4f17-94c9-58dc5d60adc9"
+      },
+      "location5": {
+        "diaChi": "Nghĩa Lâm, Nghĩa Đàn, Nghệ An",
+        "moTa": "thiên nhiên",
+        "tenDiaDiem": "Đồi hoa hướng dương",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NgheAn%2Fdoi%20hoa%20huong%20duong.jpg?alt=media&token=92949a7c-0682-4d8b-87f8-227b3c4b58e8"
+      }
+    },
+    "Ninh Bình": {
+      "location1": {
+        "diaChi": "Gia Sinh, Gia Viễn, Ninh Bình",
+        "moTa": "quần thể chùa cổ và mới",
+        "tenDiaDiem": "Chùa Bái Đính",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhBinh%2Fchua%20bai%20dinh.jpg?alt=media&token=098bf867-bb84-4a1b-9f73-f31d10c8f4cf"
+      },
+      "location2": {
+        "diaChi": "Gia Viễn, Ninh Bình ",
+        "moTa": "khu bảo tồn thiên nhiên đẹp, có chuyến đi bằng thuyền",
+        "tenDiaDiem": "Khu bảo tồn thiên nhiên Vân Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhBinh%2FKhu%20bao%20ton%20thien%20nhien%20van%20long.jpg?alt=media&token=f969b3f6-6ade-473b-b3c7-d63dd73f8058"
+      },
+      "location3": {
+        "diaChi": "Trường Yên, Hoa Lư, Ninh Bình",
+        "moTa": "Cố đô với đền thờ và pháo đài",
+        "tenDiaDiem": "Cố đô Hoa Lư",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhBinh%2Fco%20do%20hoa%20lu.jpg?alt=media&token=c0a4fe45-85cb-4978-9541-694c4492d27c"
+      },
+      "location4": {
+        "diaChi": "Ninh Hải, Hoa Lư, Ninh Bình",
+        "moTa": "chùa cổ trên núi nằm gần 3 hang động",
+        "tenDiaDiem": "Chùa Bích Động",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhBinh%2Fchua%20bich%20dong.jpg?alt=media&token=62b64384-86ea-4776-841a-29541c15d3dc"
+      },
+      "location5": {
+        "diaChi": "Trường Yên, Hoa Lư, Ninh Bình",
+        "moTa": "thung lũng có hồ nước và chùa trong động",
+        "tenDiaDiem": "Tuyệt Tịnh Cốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhBinh%2Ftuyet%20tinh%20coc.jpg?alt=media&token=5a74348c-bf39-42bd-8e62-e4a1a4105e70"
+      }
+    },
+    "Ninh Thuận": {
+      "location1": {
+        "diaChi": "Thôn Thái An, Ninh Hải, Ninh Thuận",
+        "moTa": "vườn tự nhiên ven biển có quan cảnh đẹp",
+        "tenDiaDiem": "Vườn quốc gia Núi Chúa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhThuan%2Fvuon%20quoc%20gia%20nui%20chua.jpg?alt=media&token=8a8e5b3d-39a3-4212-aee7-3ff60205799a"
+      },
+      "location2": {
+        "diaChi": "Tháp Chàm",
+        "moTa": "tàn tích ngôi đền và quang cảnh mê hồn",
+        "tenDiaDiem": "Tháp Chàm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhThuan%2Fthap%20cham.jpg?alt=media&token=b2b3ad18-ebd9-4fa7-8e9f-d3110f39e6d2"
+      },
+      "location3": {
+        "diaChi": "An Hải, Ninh Phước, Ninh Thuận",
+        "moTa": "đạp xe trên cát và ngắm cảnh từ cồn cao",
+        "tenDiaDiem": "Đồi cát Nam Cương",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhThuan%2Fdoi%20cat%20nam%20cuong.jpg?alt=media&token=1aad0812-9485-4ee2-8582-dfdcd4204523"
+      },
+      "location4": {
+        "diaChi": "thôn Tri Thủy thuộc xã Tri Hải",
+        "moTa": "bãi biển êm dịu, có làn nước ấm và yên bình",
+        "tenDiaDiem": "Bãi biển Ninh Chữ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhThuan%2Fbai%20bien%20ninh%20chu.jpg?alt=media&token=a3bdb53c-3335-4032-b9e7-9da8415de3fa"
+      },
+      "location5": {
+        "diaChi": "Quốc lộ 27, huyện Ninh Sơn, tỉnh Ninh Thuận",
+        "moTa": "đường vách đá quanh co có cảnh quan hùng vĩ",
+        "tenDiaDiem": "Đèo Ngoạn Mục",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/NinhThuan%2Fdeo%20ngoan%20muc.jpg?alt=media&token=4028e780-6b0a-40b0-915b-befe3e34342b"
+      }
+    },
+    "Phú Thọ": {
+      "location1": {
+        "diaChi": "Hy Cương, Thành phố Việt Trì, Phú Thọ",
+        "moTa": "ngôi đền tinh xảo nằm giữa ngọn đồi rậm rạp",
+        "tenDiaDiem": "Đền Hùng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuTho%2Fden%20hung.jpg?alt=media&token=6b6a8364-faf2-40f6-89a9-752da82ab29e"
+      },
+      "location2": {
+        "diaChi": "La Phù, Thanh Thủy, Phú Thọ",
+        "moTa": "sân chơi, tàu lượn siêu tốc và đường trượt nước",
+        "tenDiaDiem": "Khu du lịch Đảo Ngọc Xanh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuTho%2FKDL%20dao%20ngoc%20xanh.jpg?alt=media&token=2030d9c2-90fe-45e6-b10d-1daa7ca91fcf"
+      },
+      "location3": {
+        "diaChi": "Đền Mẫu, Hiền Lương, Hạ Hòa, Phú Thọ",
+        "moTa": "đền, lịch sử và kiến trúc",
+        "tenDiaDiem": "Đền thờ Mẫu Cơ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuTho%2Fden%20tho%20mau%20co.jpg?alt=media&token=ccf4e25d-20ef-42b1-9751-8b69a7002c78"
+      },
+      "location4": {
+        "diaChi": "Hy Cương, Thành phố Việt Trì, Phú Thọ",
+        "moTa": "đền, lịch sử và kiến trúc",
+        "tenDiaDiem": "Đền Giếng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuTho%2Fden%20gieng.jpg?alt=media&token=dbc16bcd-2b21-48cf-9b62-636e88365c84"
+      },
+      "location5": {
+        "diaChi": "xã Long Cốc, huyện Tân Sơn, tỉnh Phú Thọ",
+        "moTa": "núi, thiên nhiên",
+        "tenDiaDiem": "Đồi Chè Long Cốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuTho%2Fdoi%20che%20long%20coc.jpg?alt=media&token=de4c8d46-c61e-4819-b25d-903793a6447e"
+      }
+    },
+    "Phú Yên": {
+      "location1": {
+        "diaChi": "xã An Chấn, huyện Tuy An, tỉnh Phú Yên",
+        "moTa": "bãi biển hoang sơ gần làng chài",
+        "tenDiaDiem": "Bãi Xép",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuYen%2Fbai%20xep.jpg?alt=media&token=cd40ec1e-7c1d-4ed2-b5a4-f6ae4ee5d980"
+      },
+      "location2": {
+        "diaChi": "xã Hòa Tâm, huyện Đông Hòa, tỉnh Phú Yên",
+        "moTa": "bãi biển thanh bình có ngọn hải đăng",
+        "tenDiaDiem": "Bãi biển Bãi Môn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuYen%2Fbai%20bien%20bai%20mon.jpg?alt=media&token=b5d5310d-d32d-4b6d-ab3b-380ec93653dc"
+      },
+      "location3": {
+        "diaChi": "Thôn Mằng Lăng, Tuy An, Phú Yên",
+        "moTa": "kiến trúc, nhà thờ kitô giáo và kiến trúc gothic",
+        "tenDiaDiem": "Nhà Thờ Mằng Lăng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuYen%2Fnha%20tho%20mang%20lang.jpg?alt=media&token=cd1d4741-31b7-4dbf-8fe6-1799327356a6"
+      },
+      "location4": {
+        "diaChi": "xã Hòa Xuân Nam, huyện Đông Hòa, tỉnh Phú Yên",
+        "moTa": "đèo núi có đường hầm và nhìn ra biển",
+        "tenDiaDiem": "Đèo Cả",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuYen%2Fdeo%20ca.jpg?alt=media&token=fd60694d-c33e-456c-849b-d21895fcc077"
+      },
+      "location5": {
+        "diaChi": "Hoà Tâm, Đông Hòa, Phú Yên",
+        "moTa": "ngọn hải đăng 26.5m từ năm 1890 được khôi phục",
+        "tenDiaDiem": "Hải Đăng Mũi Điện",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/PhuYen%2Fhai%20dang%20mui%20dien.jpg?alt=media&token=0dc97572-bc12-4317-9353-6d19ec77d6be"
+      }
+    },
+    "Quảng Bình": {
+      "location1": {
+        "diaChi": "Phong Nha, Bố Trạch, Quảng Bình",
+        "moTa": "thiên nhiên tuyệt đẹp với động Phong Nha và nhiều động lớn khác",
+        "tenDiaDiem": "Vườn quốc gia Phong Nha – Kẻ Bàng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangBinh%2Fvuon%20quoc%20gia%20phong%20nha%20ke%20bang.jpg?alt=media&token=98bc8552-f670-48c5-938d-ba90a9e08844"
+      },
+      "location2": {
+        "diaChi": "Xuân Trạch, Bố Trạch, Quảng Bình",
+        "moTa": "hang động lớn cho phép tham quan có hướng dẫn",
+        "tenDiaDiem": "Hang Sơn Đoòng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangBinh%2Fhang%20son%20doong.jpg?alt=media&token=79319efa-ba43-47bb-bd7f-701841cec360"
+      },
+      "location3": {
+        "diaChi": "thành phố Đồng Hới, tỉnh Quảng Bình",
+        "moTa": "biển sạch với bãi cát dài",
+        "tenDiaDiem": "Biển Nhật Lệ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangBinh%2Fbien%20nhat%20le.jpg?alt=media&token=469d1ad9-2d84-4eb3-9302-bf94c657f1fe"
+      },
+      "location4": {
+        "diaChi": "Hồ Chí Minh Tây, Phúc Trạch, Bố Trạch, Quảng Bình",
+        "moTa": "địa điểm bơi lội trong rừng, có nhà hàng",
+        "tenDiaDiem": "Suối nước Mooc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangBinh%2Fsuoi%20nuoc%20mooc.jpg?alt=media&token=57eb4074-7813-499f-83ab-488a569eca40"
+      },
+      "location5": {
+        "diaChi": "Hồ Chí Minh Tây, Sơn Trạch, Bố Trạch, Quảng Bình",
+        "moTa": "Hang ven sông có điểm giải tri dưới nước",
+        "tenDiaDiem": "Sông chày – Hang Tối",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangBinh%2Fsong%20chay%20hang%20toi.jpg?alt=media&token=13a9cdbd-c648-4b52-8a38-e2b5a5a542d9"
+      }
+    },
+    "Quảng Nam": {
+      "location1": {
+        "diaChi": "Thánh địa Mỹ Sơn, Duy Xuyên, Quảng Nam",
+        "moTa": "Tàn tích của đền thờ Hindu linh thiêng",
+        "tenDiaDiem": "Di sản Văn hóa Thế Giới Mỹ Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNam%2Fdi%20san%20van%20hoa%20the%20gioi%20My%20Son.jpg?alt=media&token=03d228a7-b093-429e-ab0d-5806c3a2633d"
+      },
+      "location2": {
+        "diaChi": "186 Trần Phú, Phường Minh An, Hội An, Quảng Nam",
+        "moTa": "cây cầu nổi tiếng và tinh xảo từ thế kỷ 18",
+        "tenDiaDiem": "Chùa Cầu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNam%2Fchua%20cau.jpg?alt=media&token=e254dc14-a396-4e36-a079-2d5977a66ff1"
+      },
+      "location3": {
+        "diaChi": "hạ lưu sông Thu Bồn, tỉnh Quảng Nam",
+        "moTa": "Cảng thị bảo tồn và trung tâm thương mại",
+        "tenDiaDiem": "Phố cổ Hội An",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNam%2Fpho%20co%20hoi%20an.jpg?alt=media&token=8ce07e69-2183-40c9-b126-db3c0b9a27eb"
+      },
+      "location4": {
+        "diaChi": "Phạm Phán, Thanh Hà, Hội An, Quảng Nam",
+        "moTa": "làng có sưởng gốm nằm dọc con ngõ hẹp",
+        "tenDiaDiem": "Làng gốm Thanh Hà",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNam%2Flang%20gom%20thanh%20ha.jpg?alt=media&token=cbd4fc56-887f-4b62-919e-2a14a50bc298"
+      },
+      "location5": {
+        "diaChi": "Đường Nguyễn Hoàng, TP. Hội An, Quảng Nam",
+        "moTa": "địa điểm sôi động với các cửa hàng địa phương",
+        "tenDiaDiem": "Chợ đêm Hội An",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNam%2Fcho%20dem%20hoi%20an.jpg?alt=media&token=a0e8462b-0e0c-45b1-afd0-937dc8bb8418"
+      }
+    },
+    "Quảng Ngãi": {
+      "location1": {
+        "diaChi": "tỉnh Quảng Ngãi",
+        "moTa": "Hòn đảo núi lửa và chùa",
+        "tenDiaDiem": "Đảo Lý Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNgai%2Fdao%20ly%20son.jpg?alt=media&token=64a0d7f6-e486-4a10-bcdd-13929a4f9d0d"
+      },
+      "location2": {
+        "diaChi": "Lý Sơn, Quảng Ngãi",
+        "moTa": "núi lửa",
+        "tenDiaDiem": "Núi Giếng Tiền",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNgai%2Fnui%20gieng%20tien.jpg?alt=media&token=a1959fa6-7e42-4b19-8f1e-59c5f23e62b8"
+      },
+      "location3": {
+        "diaChi": "Lý Sơn, Quảng Ngãi",
+        "moTa": "kiến trúc phật giáo",
+        "tenDiaDiem": "Chùa Đục",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNgai%2Fchua%20duc.jpg?alt=media&token=1ff6d9cf-5998-4747-b1a8-68ab6234b085"
+      },
+      "location4": {
+        "diaChi": "Đảo Lý Sơn, Lý Sơn, Quảng Ngãi",
+        "moTa": "địa điểm tham quan",
+        "tenDiaDiem": "Cột cờ Tổ quốc Đảo Lý Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNgai%2Fcot%20co%20to%20quoc%20dao%20ly%20son.jpg?alt=media&token=2d7b6f67-e6cc-4409-ba60-1024526a6f76"
+      },
+      "location5": {
+        "diaChi": "thôn Tây, Lý Sơn, Quảng Ngãi",
+        "moTa": "đền",
+        "tenDiaDiem": "Đình làng An Vĩnh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNgai%2Fdinh%20lang%20an%20vinh.jpg?alt=media&token=975e5e4f-f785-422b-8fb7-5c6174bf64fd"
+      }
+    },
+    "Quảng Ninh": {
+      "location1": {
+        "diaChi": "thành phố Hạ Long, Quảng Ninh",
+        "moTa": "hòn đảo tích hợp để du lịch, vui chơi và tắm biển",
+        "tenDiaDiem": "Đảo Tuần Châu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNinh%2Fdao%20tuan%20chau.jpg?alt=media&token=7fbe4c2e-8430-4b9a-a24e-2021ea3bbfe8"
+      },
+      "location2": {
+        "diaChi": "TP. Hạ Long, Quảng Ninh",
+        "moTa": "Vịnh tuyệt đẹp với nhiều hòn đảo nhỏ",
+        "tenDiaDiem": "Vịnh Hạ Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNinh%2Fvinh%20ha%20long.jpg?alt=media&token=75429ad8-3a80-4564-9bf1-86b8d7c72383"
+      },
+      "location3": {
+        "diaChi": "tỉnh Quảng Ninh",
+        "moTa": "ngọn núi thơ mộng có di sản Phật giáo",
+        "tenDiaDiem": "Núi Yên Tử",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNinh%2Fnui%20yen%20tu.jpg?alt=media&token=e0473306-86b0-408c-96d0-6a8345103050"
+      },
+      "location4": {
+        "diaChi": "Quang Trung, Uông Bí, Quảng Ninh",
+        "moTa": "đền thờ Phật với ngôi chùa nổi tiếng",
+        "tenDiaDiem": "Chùa Ba Vàng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNinh%2Fchua%20ba%20vang.jpg?alt=media&token=d8a118e1-b915-45dc-b321-ff7a0c1e5dcd"
+      },
+      "location5": {
+        "diaChi": "Hạ Long, Bãi Cháy, Thành phố Hạ Long, Quảng Ninh",
+        "moTa": "công viên giải trí có tàu lượn, đường trượt nước",
+        "tenDiaDiem": "Công viên Sunworkd Hạ Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangNinh%2Fcong%20vien%20sunworld.jpg?alt=media&token=c05f34bd-6994-4ff6-935b-8374e6e3e7f3"
+      }
+    },
+    "Quảng Trị": {
+      "location1": {
+        "diaChi": "Vĩnh Thạch, Vĩnh Linh, Quảng Trị",
+        "moTa": "khu đường hầm thời chiến tranh chống Mỹ",
+        "tenDiaDiem": "Địa đạo Vịnh Mốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangTri%2Fdia%20dao%20vinh%20moc.jpg?alt=media&token=43c36b5c-a6bd-42f4-b35a-20ca3c84656c"
+      },
+      "location2": {
+        "diaChi": "Nguyễn Tri Phương, Phường 2, Quảng Trị",
+        "moTa": "di tích quốc gia",
+        "tenDiaDiem": "Thành cổ Quảng Trị",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangTri%2Fthanh%20co%20quang%20tri.jpg?alt=media&token=d58050f5-e6d9-4897-ade4-19c21c1528d3"
+      },
+      "location3": {
+        "diaChi": "thôn Tân Lợi, xã Gio Việt, huyện Gio Linh, tỉnh Quảng Trị",
+        "moTa": "bãi biển",
+        "tenDiaDiem": "Bãi tắm Cửa Việt",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangTri%2Fbai%20tam%20cua%20viet.jpg?alt=media&token=fb844442-11ec-4c8d-a36e-be6abe69ce02"
+      },
+      "location4": {
+        "diaChi": "Hải Phú, Hải Lăng, Quảng Trị",
+        "moTa": "vương cung thánh đường, kiến trúc",
+        "tenDiaDiem": "Vương Cung Thánh Đường Đức Mẹ La Vang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangTri%2Fvuong%20cung%20thanh%20duong%20duc%20me%20la%20vang.jpg?alt=media&token=8e770396-6656-44a4-b858-8b156bd6a5ce"
+      },
+      "location5": {
+        "diaChi": "Hướng Vân, Hướng Hóa, Quảng Trị",
+        "moTa": "thác, thiên nhiên",
+        "tenDiaDiem": "Thác Tà Puồng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/QuangTri%2Fthac%20ta%20puong.jpg?alt=media&token=ea7ab528-b00e-4770-81e5-1f0aaf1cbefb"
+      }
+    },
+    "Sóc Trăng": {
+      "location1": {
+        "diaChi": "Văn Ngọc Chính, Phường 3, Sóc Trăng",
+        "moTa": "tu viện nổi tiếng với đàn dơi ăn quả",
+        "tenDiaDiem": "Chùa Dơi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SocTrang%2Fchua%20doi.jpg?alt=media&token=61d4f2f7-3944-47c6-b998-53c5cdbd994d"
+      },
+      "location2": {
+        "diaChi": "Phường 5, Sóc Trăng",
+        "moTa": "chùa cổ của người Khmer",
+        "tenDiaDiem": "Chùa Song Rông",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SocTrang%2Fchua%20song%20rong.jpg?alt=media&token=7ea10d01-7f5b-416e-93a9-3fae8e256397"
+      },
+      "location3": {
+        "diaChi": "6 Tôn Đức Thắng, Phường 6, Sóc Trăng",
+        "moTa": "ngôi chùa Khmer có từ thế kỷ 16",
+        "tenDiaDiem": "Chùa Kh’leang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SocTrang%2Fchua%20kh%20leang.jpg?alt=media&token=ddfda298-d0fa-43a7-beff-add0303d44eb"
+      },
+      "location4": {
+        "diaChi": " xã Nhơn Mỹ, huyện Kế Sách, tỉnh Sóc Trăng",
+        "moTa": "du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Cồn Mỹ Phước",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SocTrang%2Fcon%20my%20phuoc.jpg?alt=media&token=23dbf989-bd30-4b8d-aa15-7fdf6ba3ceb5"
+      },
+      "location5": {
+        "diaChi": "khóm 1, Sóc Trăng",
+        "moTa": "tượng phật lớn màu vàng nằm giữa ruộng bậc thang",
+        "tenDiaDiem": "Chùa Quan Âm Linh Ứng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SocTrang%2Fchua%20quan%20am%20linh%20ung.jpg?alt=media&token=475a0fbd-3f5c-4c8f-a77c-b609fe592eda"
+      }
+    },
+    "Sơn La": {
+      "location1": {
+        "diaChi": "QL43, Mường Sang, Mộc Châu, Sơn La",
+        "moTa": "vườn hoa cắt tỉa cẩn thận và nhiều trò chơi lễ hội",
+        "tenDiaDiem": "Mộc Châu Happy Land",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SonLa%2Fmoc%20chau%20happy%20land.jpg?alt=media&token=d0d2d917-c0f7-4f11-98d0-774b8d12965a"
+      },
+      "location2": {
+        "diaChi": "Mường Sang, Mộc Châu, Sơn La",
+        "moTa": "thác nước nổi tiếng và cây cầu ốp kính",
+        "tenDiaDiem": "Thác Dải Yếm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SonLa%2Fthac%20dai%20yem.jpg?alt=media&token=a2cf0e08-5f30-41f3-9864-fcb6c3242993"
+      },
+      "location3": {
+        "diaChi": "Chiềng Xuân Việt Nam, Mộc Châu, Sơn La",
+        "moTa": "ngọn núi có đường đi bộ và đi xe đạp",
+        "tenDiaDiem": "Đỉnh Pha Luông",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SonLa%2Fdinh%20pha%20luong.jpg?alt=media&token=8b4d29d5-dfdf-4309-a822-1b114bae5887"
+      },
+      "location4": {
+        "diaChi": "Tà Xùa, Bắc Yên, Sơn La",
+        "moTa": "vùng đất có độ cao gần 2000m",
+        "tenDiaDiem": "Thiên đường Mây Tà Xùa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SonLa%2Fmay%20ta%20xua.jpg?alt=media&token=44f78457-82f6-466d-9b33-eedd31b0a7ce"
+      },
+      "location5": {
+        "diaChi": "xã Phỏng Lái, huyện Thuận Châu tỉnh Sơn La",
+        "moTa": "đèo núi dài 32km với khung cảnh đẹp",
+        "tenDiaDiem": "Đèo Pha Đin",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/SonLa%2Fdeo%20pha%20din.jpg?alt=media&token=5e1648bb-7fea-47d0-bf7b-0fca9ddd90c9"
+      }
+    },
+    "TP Hồ Chí Minh": {
+      "location1": {
+        "diaChi": "28 Võ Văn Tần, Phường 6, Quận 3, Thành phố Hồ Chí Minh",
+        "moTa": "Nơi trưng bày quân khí & ảnh về quân đội",
+        "tenDiaDiem": "Bảo tàng Chứng tích Chiến tranh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fbao%20tang%20chung%20tich%20chien%20tranh.jpg?alt=media&token=a02212fe-d766-4bb2-b657-9536268837b3"
+      },
+      "location2": {
+        "diaChi": "135 Đ. Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+        "moTa": "Cơ quan đầu não của chính phủ thời chiến",
+        "tenDiaDiem": "Dinh Độc Lập",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fdinh%20doc%20lap.jpg?alt=media&token=29c2148c-3de2-45a2-9bcc-fc82f4747db2"
+      },
+      "location3": {
+        "diaChi": "01 Công xã Paris, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+        "moTa": "Nhà thờ phong cách châu Âu từ thế kỷ 19",
+        "tenDiaDiem": "Nhà thờ Đức Bà Sài Gòn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fnha%20tho%20duc%20ba.jpg?alt=media&token=77e0cca2-c7bb-47ed-bde9-d0f482980850"
+      },
+      "location4": {
+        "diaChi": "07 Công Trường Lam Sơn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+        "moTa": "Phòng hòa nhạc & sân khấu ba lê",
+        "tenDiaDiem": "Nhà hát Thành phố Hồ Chí Minh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fnha%20hat%20tphcm.jpg?alt=media&token=2fb2beae-017f-4e02-b50a-284d8bcf245d"
+      },
+      "location5": {
+        "diaChi": "02 Công xã Paris, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+        "moTa": "Bưu điện đồ sộ có từ thế kỷ 19",
+        "tenDiaDiem": "Bưu điện trung tâm Sài Gòn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fbuu%20dien%20trung%20tam%20sai%20gon.jpg?alt=media&token=fb4c51b9-e8f5-4428-898c-551433146761"
+      },
+      "location6": {
+        "diaChi": "Đ. Tỉnh Lộ 15, Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh",
+        "moTa": "Mê cung địa đạo & di tích thời chiến",
+        "tenDiaDiem": "Khu di tích lịch sử Địa đạo Củ Chi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fdia%20dao%20cu%20chi.webp?alt=media&token=7121fc97-a5b8-41e5-851b-0bca3b7ad82a"
+      },
+      "location7": {
+        "diaChi": "Đ. Lê Lợi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+        "moTa": "Nơi mua đồ lưu niệm & ẩm thực địa phương",
+        "tenDiaDiem": "Chợ Bến Thành",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TPHoChiMinh%2Fcho%20ben%20thanh.jpg?alt=media&token=932bd65f-b9a3-484b-91f2-7854f17498f3"
+      }
+    },
+    "Thanh Hóa": {
+      "location1": {
+        "diaChi": "P. Trường Sơn, Quảng Xương, Thanh Hoá",
+        "moTa": "danh thắng thuộc cụm Di tích Lịch sử văn hóa của núi Trường Lệ",
+        "tenDiaDiem": "Hòn Trống Mái",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThanhHoa%2Fhon%20trong%20mai.jpg?alt=media&token=abafe3b8-787a-4a3c-af38-21c0cf6b9c33"
+      },
+      "location2": {
+        "diaChi": "xã Xuân Du huyện Như Thanh",
+        "moTa": "đền",
+        "tenDiaDiem": "Phủ Na",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThanhHoa%2Fphu%20na.jpg?alt=media&token=b3e3f54d-5483-44f7-8f9b-e938a4f5b780"
+      },
+      "location3": {
+        "diaChi": "thành phố Sầm Sơn, tỉnh Thanh Hóa",
+        "moTa": "đạp xe đạp đôi quanh những con đường ven biển xinh đẹp",
+        "tenDiaDiem": "Bãi biển Sầm Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThanhHoa%2Fbien%20sam%20son.jpg?alt=media&token=f912fcdd-e735-4d2b-b37a-3655e5fc072a"
+      },
+      "location4": {
+        "diaChi": "QL47, Xuân Lam, Thọ Xuân, Thanh Hoá",
+        "moTa": "lịch sử, kiến trúc",
+        "tenDiaDiem": "Khu di tích Lam Kinh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThanhHoa%2Fkhu%20di%20tich%20lam%20kinh.jpg?alt=media&token=5bfc3080-287c-4e89-b328-980f55caeae5"
+      },
+      "location5": {
+        "diaChi": "xã Thạch Lâm, huyện Thạch Thành, tỉnh Thanh Hóa",
+        "moTa": "điểm du lịch hấp dẫn khi hè về",
+        "tenDiaDiem": "Thác Mây",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThanhHoa%2Fthac%20may.jpg?alt=media&token=b23a7227-59fd-45ab-9dce-d5f792341999"
+      }
+    },
+    "Thái Bình": {
+      "location1": {
+        "diaChi": "Duy Nhất, Vũ Thư, Thái Bình",
+        "moTa": "Ngôi chùa lâu đời có tháp chuông",
+        "tenDiaDiem": "Chùa Keo Thái Bình",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiBinh%2Fchua%20keo%20thai%20binh.jpg?alt=media&token=99b3d2c2-cb37-4de4-851c-d0f08c75da00"
+      },
+      "location2": {
+        "diaChi": "xã Thái Đô, huyện Thái Thụy, Thái Bình ",
+        "moTa": "Bãi biển",
+        "tenDiaDiem": "Bãi biển cồn Đen",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiBinh%2Fbai%20bien%20con%20den.jpg?alt=media&token=984be81f-9554-4da7-88e3-489f8bcfa73f"
+      },
+      "location3": {
+        "diaChi": "Tam Đường, Hưng Hà, Thái Bình",
+        "moTa": "Đền, kiến trúc và lịch sử",
+        "tenDiaDiem": "Đền Trần Thái Bình",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiBinh%2Fden%20tran%20thai%20binh.jpg?alt=media&token=c6e6f3b3-4eea-4cbc-ae9f-44039c12d0e2"
+      },
+      "location4": {
+        "diaChi": "Đoan Hùng, Hưng Hà, Thái Bình",
+        "moTa": "Đền, lịch sử và kiến trúc",
+        "tenDiaDiem": "Đền Tiên La",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiBinh%2Fden%20tien%20la.jpg?alt=media&token=bb337e0b-3142-4dfa-8f9b-569df3b4f3cc"
+      },
+      "location5": {
+        "diaChi": "Vân Trường, Tiền Hải, Thái Bình",
+        "moTa": "Kiến trúc và nhà thờ kitô giáo",
+        "tenDiaDiem": "Nhà thờ Giáo xứ Bác Trạch",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiBinh%2Fnha%20tho%20giao%20su%20bac%20trach.jpg?alt=media&token=fc9d7a3c-fc27-4d20-bc67-b7ea48396a3c"
+      }
+    },
+    "Thái Nguyên": {
+      "location1": {
+        "diaChi": "xã Phúc Trìu, thành phố Thái Nguyên",
+        "moTa": "Hồ nước có công viên và chuyến đi thuyền",
+        "tenDiaDiem": "Hồ Núi Cốc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiNguyen%2Fho%20nui%20coc.jpg?alt=media&token=4cdbd420-6188-420a-9c5f-3695e44a28bd"
+      },
+      "location2": {
+        "diaChi": "1 Đội Cấn, Trưng Vương, Thành phố Thái Nguyên, Thái Nguyên",
+        "moTa": "Viện bảo tàng",
+        "tenDiaDiem": "Bảo tàng Văn hóa các Dân tộc Việt Nam",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiNguyen%2Fbao%20tang%20van%20hoa%20dan%20toc%20vn.jpg?alt=media&token=230f56be-11c0-4fb7-b309-72109bc0c5a8"
+      },
+      "location3": {
+        "diaChi": "xã Phú Thượng ,huyện Võ Nhai",
+        "moTa": "hang",
+        "tenDiaDiem": "Hang Phượng Hoàng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiNguyen%2Fhang%20phuong%20hoang.jpg?alt=media&token=5126d039-b195-4a46-b767-24d29a36c217"
+      },
+      "location4": {
+        "diaChi": "Khu du lịch Thái Hải, Thịnh Đức, Thành phố Thái Nguyên, Thái Nguyên",
+        "moTa": "du lịch sinh thái",
+        "tenDiaDiem": "Khu bảo tồn Làng nhà sàn Dân tộc Sinh thái Thái Hải",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiNguyen%2Fkhu%20bao%20ton%20lang%20nha%20san%20dan%20toc%20sinh%20thai.jpg?alt=media&token=1a6b4430-34ba-4787-bda7-868003fe5d4d"
+      },
+      "location5": {
+        "diaChi": "Tỉn Keo, ATK, Phú Đinh, Định Hóa, Thái Nguyên",
+        "moTa": "Khu di tích, lịch sử",
+        "tenDiaDiem": "An toàn khu Định Hóa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThaiNguyen%2Fan%20toan%20khu%20dinh%20hoa.jpg?alt=media&token=4f8f5821-67fb-48c0-8d5d-c0cc68a271b3"
+      }
+    },
+    "Thừa Thiên Huế": {
+      "location1": {
+        "diaChi": "Đường Nguyễn Phúc Nguyên, thành phố Huế, tỉnh Thừa Thiên Huế",
+        "moTa": "Ngôi chùa 7 tầng lâu đời",
+        "tenDiaDiem": "Chùa Thiên Mụ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThuaThienHue%2Fchua%20thien%20mu.jpg?alt=media&token=91a3978f-fc6e-40e5-9ba5-4c80af15595e"
+      },
+      "location2": {
+        "diaChi": "Lộc Trì, Phú Lộc, Thừa Thiên Huế",
+        "moTa": "Khu bảo tồn rừng có tàn tích và chim chóc",
+        "tenDiaDiem": "Vườn Quốc Gia Bạch Mã",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThuaThienHue%2Fvuon%20quoc%20gia%20bach%20ma.jpg?alt=media&token=a1fb5b12-da4a-45af-87cd-f58b0520a76f"
+      },
+      "location3": {
+        "diaChi": "Khải Định, Thủy Bằng, Hương Thủy, Thừa Thiên Huế",
+        "moTa": "Lăng mộ hoành tráng của hoàng đế Khải Định",
+        "tenDiaDiem": "Ứng Lăng Khải Định",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThuaThienHue%2Fung%20lang%20khai%20dinh.jpg?alt=media&token=d29449f2-0811-4c06-933d-fd669b97b703"
+      },
+      "location4": {
+        "diaChi": "Thành phố Huế, Thừa Thiên Huế",
+        "moTa": "Hoàng cung trong tử cấm thành",
+        "tenDiaDiem": "Kinh thành Huế",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThuaThienHue%2Fkinh%20thanh%20hue.jpg?alt=media&token=c9b3ea95-d8c5-40d7-ad92-2bbd4df496cd"
+      },
+      "location5": {
+        "diaChi": "Xã Hương Thọ, huyện Hương Trà, tỉnh Thừa Thiên Huế",
+        "moTa": "Quần thể đền thờ vị hoàng đế từ thế kỷ 19",
+        "tenDiaDiem": "Lăng mộ Hoàng đế Minh Mạng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/ThuaThienHue%2Flang%20mo%20hoang%20de%20minh%20mang.jpg?alt=media&token=0214bad8-98ec-40db-a9d5-7979330b1dd6"
+      }
+    },
+    "Tiền Giang": {
+      "location1": {
+        "diaChi": "TT. Cái Bè, Cái Bè, Tiền Giang",
+        "moTa": "Chợ nổi bán trái cây và rau củ",
+        "tenDiaDiem": "Chợ nổi Cái Bè",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TienGiang%2Fcho%20no%20cai%20be.jpg?alt=media&token=dfd709b6-5777-4e44-8fae-85c2f7435aea"
+      },
+      "location2": {
+        "diaChi": "ấp Mỹ An, Mỹ Phong, Thành phố Mỹ Tho, Tiền Giang",
+        "moTa": "Ngôi chùa có tượng và vườn",
+        "tenDiaDiem": "Chùa Vĩnh Tràng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TienGiang%2Fchua%20vinh%20trang.jpg?alt=media&token=67ab1c61-973c-4291-b36f-0fb1e9128bac"
+      },
+      "location3": {
+        "diaChi": "Ấp Thới Hòa, Xã Thới Sơn, Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+        "moTa": "Cù lao nổi tiếng với cây ăn trái và mật ong",
+        "tenDiaDiem": "Cù lao Thới Sơn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TienGiang%2Fcu%20lao%20thoi%20son.jpg?alt=media&token=f1f8d081-4349-4108-be6b-73e217d53e0b"
+      },
+      "location4": {
+        "diaChi": "Bình Đức, Châu Thành, Tiền Giang",
+        "moTa": "Trại rắn, sở thú và trung tâm nghiên cứu",
+        "tenDiaDiem": "Trại rắn Đồng Tâm",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TienGiang%2Ftrai%20ran%20dong%20tam.jpg?alt=media&token=95d7676f-5c11-4555-94f8-2d1b254744db"
+      },
+      "location5": {
+        "diaChi": "Thanh Tân, Tân Phước, Tiền Giang",
+        "moTa": "Đền, phật giáo và kiến trúc",
+        "tenDiaDiem": "Thiền viện Trúc Lâm Chánh Giác",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TienGiang%2Fthien%20vien%20truc%20lam%20chanh%20giac.jpg?alt=media&token=ca36e335-c20a-4015-a5c0-b338ef162048"
+      }
+    },
+    "Trà Vinh": {
+      "location1": {
+        "diaChi": "Trường Long Hoà, Duyên Hải, Trà Vinh",
+        "moTa": "Bãi biển yên tĩnh có các quầy hàng hải sản",
+        "tenDiaDiem": "Biển Ba Động",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TraVinh%2Fbien%20ba%20dong.jpg?alt=media&token=4f7e74d0-b346-4ece-9fba-1cf55dffc566"
+      },
+      "location2": {
+        "diaChi": "54, TT. Châu Thành, Châu Thành, Trà Vinh",
+        "moTa": "Đền và phật giáo",
+        "tenDiaDiem": "Chùa Kompông Chrây",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TraVinh%2Fchua%20kompong.jpg?alt=media&token=41983e93-a6b3-44f1-8629-6ba9b7b80215"
+      },
+      "location3": {
+        "diaChi": "Hàm Tân, Trà Cú, Trà Vinh",
+        "moTa": "Đền và phật giáo",
+        "tenDiaDiem": "Chùa Vàm Ray",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TraVinh%2Fchua%20vam%20ray.jpg?alt=media&token=c28f11b6-87bc-462e-b114-07f17ccd2994"
+      },
+      "location4": {
+        "diaChi": "phường 8 thành phố Trà Vinh",
+        "moTa": "Hồ nước lớn có hoa sen và khu câu cá",
+        "tenDiaDiem": "Ao Bà Om",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TraVinh%2Fao%20ba%20om.jpg?alt=media&token=0cd21108-40fe-4eea-8c2c-22ba58592115"
+      },
+      "location5": {
+        "diaChi": "Lương Hoà, Châu Thành, Trà Vinh",
+        "moTa": "Tượng và công trình kiến trúc Khmer lộng lẫy",
+        "tenDiaDiem": "Chùa Khmer chùa Âng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TraVinh%2Fchua%20ang%20.jpg?alt=media&token=38bf87e6-7335-4bf6-9599-986371662ee5"
+      }
+    },
+    "Tuyên Quang": {
+      "location1": {
+        "diaChi": "xã Thượng Lâm, Na Hang, Tuyên Quang",
+        "moTa": "thác, thiên nhiên",
+        "tenDiaDiem": "Thác Khuổi Nhi",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TuyenQuang%2Fthac%20khuoi%20nhi.jpg?alt=media&token=35c43708-651f-4641-8339-7a9da33b6ad5"
+      },
+      "location2": {
+        "diaChi": "huyện Na Hang, tỉnh Tuyên Quang",
+        "moTa": "đền thờ vị hôn thê của tướng quân Trần Nhật Duật",
+        "tenDiaDiem": "Đền Pác Tạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TuyenQuang%2Fden%20pac%20ta.jpg?alt=media&token=b37caa4d-c54c-4ef9-a5e6-50b2e8190718"
+      },
+      "location3": {
+        "diaChi": "Thị Trấn Na Hang, Huyện Na Hang, Tỉnh Tuyên Quang",
+        "moTa": "hồ nước đẹp nằm trong khu bảo tồn thiên nhiên Na Hang",
+        "tenDiaDiem": "hồ Thủy điện Na Hang",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TuyenQuang%2Fho%20thuy%20dien%20na%20hang.jpg?alt=media&token=6f4e3a67-eb68-4549-bd21-f09505e85192"
+      },
+      "location4": {
+        "diaChi": "Tân Trào, Sơn Dương, Tuyên Quang",
+        "moTa": "khu di tích lịch sử của cách mạng Việt Nam",
+        "tenDiaDiem": "Đình Tân Trào",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TuyenQuang%2Fdinh%20tan%20trao.jpg?alt=media&token=f129c3ba-9708-4721-8b5c-141656aac65f"
+      },
+      "location5": {
+        "diaChi": "Tân Trào, Sơn Dương, Tuyên Quang",
+        "moTa": "lịch sử và kiến trúc",
+        "tenDiaDiem": "Đình Hồng Thái",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TuyenQuang%2Fdinh%20hong%20thai.jpg?alt=media&token=21fc884c-df14-4408-b278-a8153367a17e"
+      }
+    },
+    "Tây Ninh": {
+      "location1": {
+        "diaChi": "xã Thạnh Tân, thành phố Tây Ninh",
+        "moTa": "ngọn đồi nổi tiếng có lối đi bộ, cáp treo",
+        "tenDiaDiem": "Núi Bà Đen",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TayNinh%2Fnui%20ba%20den.jpg?alt=media&token=5f8b0e7b-e378-400c-9e3f-6b6900edf60e"
+      },
+      "location2": {
+        "diaChi": "Phạm Hộ Pháp, TT. Hoà Thành, Hoà Thành, Tây Ninh",
+        "moTa": "nhà thờ Cao Đài lâu đời và độc đáo",
+        "tenDiaDiem": "Tòa thánh Tây Ninh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TayNinh%2Ftoa%20thanh%20tay%20ninh.jpg?alt=media&token=736123e6-b720-4beb-bedb-d97cd0d37b7f"
+      },
+      "location3": {
+        "diaChi": "xã Thạnh Tân, phố Tây Ninh",
+        "moTa": "Ngôi chùa trên đỉnh núi có cảnh đẹp",
+        "tenDiaDiem": "Chùa Bà Tây Ninh",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TayNinh%2Fchua%20ba%20tay%20ninh.jpg?alt=media&token=1dd14f2a-7475-418a-8642-b8ad06a18887"
+      },
+      "location4": {
+        "diaChi": "Thạnh Tân, Tây Ninh",
+        "moTa": "Đền và núi",
+        "tenDiaDiem": "Điện Bà Linh Sơn Thánh Mẫu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TayNinh%2Fdien%20ba%20linh%20son%20thanh%20mau.jpg?alt=media&token=32e13702-3d06-4226-b413-9b0c6c039b8e"
+      },
+      "location5": {
+        "diaChi": "Phan, Dương Minh Châu, Tây Ninh",
+        "moTa": "khu du lịch và tham quan ở núi Bà Đen",
+        "tenDiaDiem": "Khu Du Lịch Núi Bà Đen",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/TayNinh%2Fkhu%20du%20lich%20nui%20ba%20den.jpg?alt=media&token=43833f12-12f9-4ebb-81fd-3bace169e8bf"
+      }
+    },
+    "Vĩnh Long": {
+      "location1": {
+        "diaChi": "QL1A, Tân Ngãi, Vĩnh Long",
+        "moTa": "Những bảo tháp uy nghi được sơn màu tươi sáng",
+        "tenDiaDiem": "Chùa Phật Ngọc xá lợi Vĩnh Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhLong%2Fchua%20phat%20ngoc%20xa%20loi.jpg?alt=media&token=cb2512a5-c353-4744-b26b-4579f72aeed6"
+      },
+      "location2": {
+        "diaChi": "Trần Phú, Phường 4, Vĩnh Long",
+        "moTa": "Kiến trúc và lịch sử",
+        "tenDiaDiem": "Văn Thánh Miếu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhLong%2Fvan%20thanh%20mieu.jpg?alt=media&token=1f2af416-7b09-4f77-a8a0-999ff44c6d9f"
+      },
+      "location3": {
+        "diaChi": "Ấp Bình Lương, An Bình, Long Hồ, Vĩnh Long",
+        "moTa": "Đền",
+        "tenDiaDiem": "Chùa Tiên Châu",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhLong%2Fchua%20tien%20chau.jpg?alt=media&token=d1cef79e-f717-40d0-bab4-085c2695a38a"
+      },
+      "location4": {
+        "diaChi": "số 38 ấp Bình Hòa, xã Bình Hòa Phước, huyện Long Hồ, tỉnh Vĩnh Long",
+        "moTa": "kiến trúc cổ",
+        "tenDiaDiem": "Nhà cổ Cai Cường",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhLong%2Fnha%20co%20cai%20duong.jpg?alt=media&token=1c8a8683-9e67-4966-b87b-49c3299c54fd"
+      }
+    },
+    "Vĩnh Phúc": {
+      "location1": {
+        "diaChi": "Đại Đình, Tam Đảo, Vĩnh Phúc",
+        "moTa": "Vườn quốc gia tươi đẹp lý tưởng để đi bộ",
+        "tenDiaDiem": "Vườn quốc gia Tam Đảo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhPhuc%2Fvuon%20quoc%20gia%20tam%20dao.jpg?alt=media&token=1bc25278-7537-4679-b01c-ad6dce0a7521"
+      },
+      "location2": {
+        "diaChi": "phường Đông Xuân, thành phố Phúc Yên",
+        "moTa": "Địa điểm tự nhiên rợp bóng cây xanh nằm trên núi",
+        "tenDiaDiem": "Hồ Đại Lải",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhPhuc%2Fho%20dai%20lai.jpg?alt=media&token=59d15136-4667-4302-9c86-44db3b49e6f4"
+      },
+      "location3": {
+        "diaChi": "Đại Đình, Tam Đảo, Vĩnh Phúc",
+        "moTa": "Khu đất Phật giữa chốn thanh bình",
+        "tenDiaDiem": "Thiền viện Trúc Lâm Tây Thiên",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhPhuc%2Fthien%20vien%20truc%20lam%20tay%20thien.jpg?alt=media&token=174b4998-2d72-44c4-8076-2c8345bf0108"
+      },
+      "location4": {
+        "diaChi": "TT. Tam Đảo, Tam Đảo, Vĩnh Phúc",
+        "moTa": "thác nước, thiên nhiên",
+        "tenDiaDiem": "Thác Bạc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/VinhPhuc%2Fthac%20bac.webp?alt=media&token=0827acda-855c-4f16-8e72-b77885e2e217"
+      }
+    },
+    "Yên Bái": {
+      "location1": {
+        "diaChi": "huyện Yên Bình, tỉnh Yên Bái",
+        "moTa": "Hồ nhân tạo có nhiều đảo nhỏ",
+        "tenDiaDiem": "Hồ Thác Bà",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/YenBai%2Fho%20thac%20ba.jpg?alt=media&token=f6520a46-a34e-4467-bc3c-3b92a6f2c15b"
+      },
+      "location2": {
+        "diaChi": "quốc lộ 32, xã Cao Phạ huyện Mù Cang Chải, tỉnh Yên Bái",
+        "moTa": "Đèo núi có thửa ruộng bậc thang",
+        "tenDiaDiem": "Đèo Khau Phạ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/YenBai%2Fdeo%20khau%20pha.jpg?alt=media&token=6f726a4c-09d3-454a-ac53-f34b9a7dc09c"
+      },
+      "location3": {
+        "diaChi": "huyện Mù Cang Chải, tỉnh Yên Bái",
+        "moTa": "Khu vực ruộng lúa xanh bát ngát trên sườn đồi",
+        "tenDiaDiem": "Ruộng Bậc Thang Mù Cang Chải",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/YenBai%2Fruong%20bac%20thang%20mu%20cang%20chai%20.jpg?alt=media&token=cf060213-0c5f-4030-b69e-1c5ff05d1ad6"
+      },
+      "location4": {
+        "diaChi": "Bản Công, Trạm Tấu, Yên Bái",
+        "moTa": "điểm tham quan trên đỉnh núi",
+        "tenDiaDiem": "Đỉnh Tà Xùa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/YenBai%2Fdinh%20ta%20xua.jpg?alt=media&token=fe29f6a9-f67b-4ddb-b2d6-f5c07ed8950c"
+      },
+      "location5": {
+        "diaChi": "huyện Trạm Tấu, tỉnh Yên Bái",
+        "moTa": "điểm tham quan trên đỉnh núi",
+        "tenDiaDiem": "Tà Chì Nhù",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/YenBai%2Fta%20chi%20nhu.jpg?alt=media&token=9e65e8a8-fdc3-430b-bcd4-9b4ff9fc1bc5"
+      }
+    },
+    "Điện Biên": {
+      "location1": {
+        "diaChi": "279, Phường Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên",
+        "moTa": "Lịch sử",
+        "tenDiaDiem": "Bảo tàng Chiến thắng Điện Biên Phủ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DienBien%2Fbao%20tang%20chien%20thang%20DBP.jpg?alt=media&token=2d5defaf-6083-4241-bf87-a373e50c3b53"
+      },
+      "location2": {
+        "diaChi": "Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên",
+        "moTa": "Lịch sử",
+        "tenDiaDiem": "Đồi D1",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DienBien%2Fdoi%20D1.jpg?alt=media&token=7818d1e0-286f-4a7b-bb0a-24f545ccd037"
+      },
+      "location3": {
+        "diaChi": "khu di tích Thành Bản Phủ, Thanh Yên, h. Điện Biên, Điện Biên",
+        "moTa": "Lịch sử",
+        "tenDiaDiem": "Thành Bản Phủ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DienBien%2Fthanh%20ban%20phu.jpg?alt=media&token=ec9b01a3-cc32-49cd-a5b9-991537ba6ca5"
+      },
+      "location4": {
+        "diaChi": "Xã Mường Phăng, huyện Điện Biên, tỉnh Điện Biên",
+        "moTa": "đảo",
+        "tenDiaDiem": "Đảo hoa anh đào",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DienBien%2Fdao%20hoa%20anh%20dao.jpg?alt=media&token=fcf9691c-66f8-4e57-a9de-e725735b7bd8"
+      },
+      "location5": {
+        "diaChi": "xã Thanh Luông, huyện Điện Biên",
+        "moTa": "khu du lịch",
+        "tenDiaDiem": "Suối Nước Nóng Hua Pe",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DienBien%2Fsuoi%20nuoc%20nong%20Hua%20Pe.jpg?alt=media&token=2f497f57-ead4-4f91-a9c8-21cbaec5b5d2"
+      }
+    },
+    "Đà Nẵng": {
+      "location1": {
+        "diaChi": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng",
+        "moTa": "Núi hùng vĩ có hang động & chùa chiền",
+        "tenDiaDiem": "Núi Ngũ Hành Đà Nẵng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DaNang%2Fnui%20ngu%20hanh.jpg?alt=media&token=9d71e1c9-d00a-4635-9ef2-9b13b38bee47"
+      },
+      "location2": {
+        "diaChi": "Hoà Phú, Hòa Vang, Đà Nẵng",
+        "moTa": "quần thể du lịch nghỉ dưỡng",
+        "tenDiaDiem": "Sun World Bà Nà Hills Đà Nẵng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DaNang%2Fsun%20world%20ba%20na%20hills.jpg?alt=media&token=3cb891b0-7a19-4e9e-b5de-1875e9796eaa"
+      },
+      "location3": {
+        "diaChi": "Sơn Trà, An Hải Tây, An Hải, Cầu Rồng Đà Nẵng",
+        "moTa": "Cây cầu rồng bắc qua sông và có nhiều đèn",
+        "tenDiaDiem": "Cầu Rồng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DaNang%2Fcau%20rong.jpg?alt=media&token=cf6c83df-9053-4535-b3c1-976333f3e5e5"
+      },
+      "location4": {
+        "diaChi": "Số 02 Đ. 2 Tháng 9, Bình Hiên, Hải Châu, Đà Nẵng",
+        "moTa": "Bảo tàng nhỏ có các tác phẩm điêu khắc",
+        "tenDiaDiem": "Bảo tàng Điêu khắc Chăm Đà Nẵng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DaNang%2Fbao%20tang%20dieu%20khac%20cham.jpg?alt=media&token=57888ce3-7dcc-46a0-a728-151c1860d4e8"
+      },
+      "location5": {
+        "diaChi": "đường Võ Nguyên Giáp, T20, phường Phước Mỹ, quận Sơn Trà, thành phố Đà Nẵng",
+        "moTa": "bãi biển đẹp có bờ cát trắng",
+        "tenDiaDiem": "Bãi biển Mỹ Khê",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DaNang%2Fbai%20bien.jfif?alt=media&token=3b71d5d3-fa3a-49f8-9d6b-b8f253ef200d"
+      }
+    },
+    "Đắk Lắk": {
+      "location1": {
+        "diaChi": "xã Dray sáp, huyện Krông Ana, tỉnh Đăk Lăk",
+        "moTa": "Thác nước tuyệt đẹp nằm giữa thiên nhiên",
+        "tenDiaDiem": "Thác Dray Nur",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakLak%2FThac%20daray%20nur.jpg?alt=media&token=1c077d34-c012-40c1-8b26-43e52702dff0"
+      },
+      "location2": {
+        "diaChi": "Krông Na, Buôn Đôn, Đắk Lắk",
+        "moTa": "Trải nghiệm đi bộ trong rừng và ngắm voi",
+        "tenDiaDiem": "Vườn quốc gia Yok Đôn",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakLak%2Fvuon%20quoc%20gia%20yok%20%C4%91%C3%B4n.jpg?alt=media&token=18cbb30c-80ec-4a19-a1f0-85e51e89a0d4"
+      },
+      "location3": {
+        "diaChi": "thị trấn Liên Sơn, thuộc huyện Lắk, tỉnh Đắk Lắk",
+        "moTa": "Hồ nước lớn nhất vùng cao nguyên trung tâm",
+        "tenDiaDiem": "Hồ Lắk",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakLak%2Fho%20lak.jpg?alt=media&token=b9f71094-85d9-4511-92f9-392252c7b4e9"
+      },
+      "location4": {
+        "diaChi": "Nguyễn Đình Chiểu, Tân Lợi, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "moTa": "Triển lãm cà phê và khu cho khách dùng thử",
+        "tenDiaDiem": "Bảo tàng Thế giới Cà phê",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakLak%2Fbao%20tang%20the%20gioi%20ca%20phe.jpg?alt=media&token=9db16f93-2d05-4063-9019-332746726422"
+      },
+      "location5": {
+        "diaChi": "Dray Sáp, Krông Nô, Đăk Nông",
+        "moTa": "Thác nước cao 30m trên sông Serepôk",
+        "tenDiaDiem": "Thác Gia Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakLak%2Fthac%20gia%20long.jpg?alt=media&token=976e04ae-3179-4b17-964b-df38dc90803b"
+      }
+    },
+    "Đắk Nông": {
+      "location1": {
+        "diaChi": "Đắk Sôr, Krông Nô, Đăk Nông",
+        "moTa": "Thác và du lịch sinh thái",
+        "tenDiaDiem": "Thác Đray Sáp",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakNong%2Fthac%20draysap.jpg?alt=media&token=e5a00bad-2019-4174-a06e-97ae08c3a6e1"
+      },
+      "location2": {
+        "diaChi": "xã Đắk Som, huyện Đắk Glong",
+        "moTa": "Khu bảo tồn, du lịch bụi, rừng, du lịch sinh thái và tự nhiên",
+        "tenDiaDiem": "Vườn Quốc gia Tà Đùng",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakNong%2Fvuon%20quoc%20gia%20ta%20dung.jpg?alt=media&token=253e8146-d484-465a-b349-1f8b3b742798"
+      },
+      "location3": {
+        "diaChi": "xã Đắk Rồ, huyện Krông Nô",
+        "moTa": "Hồ",
+        "tenDiaDiem": "Hồ Ea Snô",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakNong%2Fho%20ea%20sno.jpg?alt=media&token=81b39f89-a901-4e24-b0ab-789f86ac2566"
+      },
+      "location4": {
+        "diaChi": "Quảng Tâm, Tuy Đức, Đăk Nông",
+        "moTa": "Thác và du lịch sinh thái",
+        "tenDiaDiem": "Thác Đắk G'Lun",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakNong%2Fthac%20dak%20g'lun.jpg?alt=media&token=0f250128-c527-439f-b7fc-4d840891d8df"
+      },
+      "location5": {
+        "diaChi": "Đắk Nia, Gia Nghĩa, Đăk Nông",
+        "moTa": "Thác và du lịch sinh thái",
+        "tenDiaDiem": "Thác Liêng Nung",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DakNong%2Fthac%20lieng%20nung.jpg?alt=media&token=b8f35019-079d-4614-ae80-a3ea7771b7c5"
+      }
+    },
+    "Đồng Nai": {
+      "location1": {
+        "diaChi": "Nam Cát Tiên, Tân Phú, Đồng Nai",
+        "moTa": "Khu vực ngắm chim & đi bộ",
+        "tenDiaDiem": "Vườn Quốc Gia Cát Tiên",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongNai%2Fvuon%20quoc%20gia%20cat%20tien.jpg?alt=media&token=3f6cf642-e20b-4059-93bb-109acd8efbe7"
+      },
+      "location2": {
+        "diaChi": "104/4 Khu Công Nghiệp Giang Điền, Giang Điền, Trảng Bom, Đồng Nai",
+        "moTa": "Khu du lịch có bãi tắm cạnh thác và vài nhà hàng",
+        "tenDiaDiem": "Khu du lịch sinh thái Thác Giang Điền",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongNai%2Fthac%20giang%20dien.jpg?alt=media&token=05afb56d-2d98-422a-81fc-aa64e1d59163"
+      },
+      "location3": {
+        "diaChi": "khu phố 4, trên đường Huỳnh Văn Nghệ, thuộc địa phận phường Bửu Long, TP. Biên Hòa, Đồng Nai ",
+        "moTa": "Công viên với cảnh đẹp trên cao",
+        "tenDiaDiem": "Khu du lịch Bửu Long",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongNai%2FKDL%20buu%20long.jpg?alt=media&token=e320afd1-b7cd-4af8-ba57-005a7ad787ed"
+      },
+      "location4": {
+        "diaChi": " ấp 6, xã Trà Cổ, huyện Tân Phú, tỉnh Đồng Nai",
+        "moTa": "Hồ cá koi, cầu trượt nước và sân chơi bơm hơi",
+        "tenDiaDiem": "Công viên Suối Mơ",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongNai%2Fcong%20vien%20suoi%20mo.jpg?alt=media&token=946b7f0c-6741-411c-b0fd-e4942393e806"
+      },
+      "location5": {
+        "diaChi": "537 Đinh Quang Ân, Ấp Tân Cang, Long Thành, Đồng Nai",
+        "moTa": "Du lịch sinh thái, tham quan hoang dã và tự nhiên",
+        "tenDiaDiem": "Khu Du Lịch Sinh Thái Vườn Xoài",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongNai%2FKDL%20vuon%20xoai.jpg?alt=media&token=6f0ef9c4-6b26-41a0-beb6-2384bf08331d"
+      }
+    },
+    "Đồng Tháp": {
+      "location1": {
+        "diaChi": "Khóm 4, Tam Nông, Đồng Tháp",
+        "moTa": "Khu bảo tồn có đầm lầy cho loài chim quý",
+        "tenDiaDiem": "Vườn quốc gia Tràm Chim",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongThap%2Fvuon%20quoc%20gia%20tram%20chim.jpg?alt=media&token=01f497b3-7cfe-4473-b306-de5bb528e687"
+      },
+      "location2": {
+        "diaChi": "Ấp 4, Cao Lãnh, Đồng Tháp",
+        "moTa": "Chuyến đi xuồng trên kênh và tàn tích thời chiến",
+        "tenDiaDiem": "Khu di tích Xẻo Quýt",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongThap%2Fkhu%20di%20tich%20x%E1%BA%BBo%20qu%C3%BDt.jpg?alt=media&token=96ab8741-9ff3-4607-8f8f-c9b2a58b503a"
+      },
+      "location3": {
+        "diaChi": "xã Tân Qui Đông, Sa Đéc, Đồng Tháp",
+        "moTa": "Khu vực bài trí hoa sặc sỡ tại vùng ngập nước",
+        "tenDiaDiem": "Làng hoa Sa Đéc",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongThap%2Flang%20hoa%20sa%20dec.jpg?alt=media&token=1284ed0b-247d-46f4-a57e-edac06342ab6"
+      },
+      "location4": {
+        "diaChi": "Hoà Tân, Châu Thành, Đồng Tháp",
+        "moTa": "Ngôi chùa đầy màu sắc với ao sen",
+        "tenDiaDiem": "Phước Kiển Tự (Chùa Lá Sen)",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongThap%2Fchua%20la%20sen.jpg?alt=media&token=4e39a344-f744-4a7e-855a-e24eebdb3dd3"
+      },
+      "location5": {
+        "diaChi": "xã Mỹ Hòa, huyện Tháp Mười, tỉnh Đồng Tháp",
+        "moTa": "Du lịch sinh thái, tự nhiên",
+        "tenDiaDiem": "Đồng Tháp Mười",
+        "url": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/DongThap%2Fdong%20thap%20muoi.jpg?alt=media&token=c011bcf5-0a19-474e-b71d-09ebf8f814ca"
+      }
+    }
+  },
+  "user": {
+    "2ONtY4aNyZXNCS900WJ6Ir1WFMs1": {
+      "email": "valorant4921@gmail.com",
+      "image": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/Users_Profile_Cover_image%2Fimage_2ONtY4aNyZXNCS900WJ6Ir1WFMs1?alt=media&token=0a37c2bf-8c79-4bb4-9167-871b84ba6558",
+      "name": "nnnn",
+      "phone": "985797979"
+    },
+    "2UFJT1nHaZdB8oKvyNIjAOMoJCW2": {
+      "name": "",
+      "phone": ""
+    },
+    "8UNfex4otUQKDMPwWJgz2Xfeb202": {
+      "email": "huynhgiahao1902@gmail.com",
+      "image": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/Users_Profile_Cover_image%2Fimage_8UNfex4otUQKDMPwWJgz2Xfeb202?alt=media&token=2b519c35-098a-4606-a5ab-69c7920d24b4",
+      "name": "Huỳnh Gia Hào",
+      "phone": "0972900752"
+    },
+    "X0ldyI1tN6WPfUZN5GXQU8XGjKr1": {
+      "email": "tienne@gmail.com",
+      "image": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/Users_Profile_Cover_image%2Fimage_X0ldyI1tN6WPfUZN5GXQU8XGjKr1?alt=media&token=66dd8cb8-0eb0-4f80-8619-fcf2373fea53",
+      "name": "hữu tiến",
+      "phone": "0946765531"
+    },
+    "jtioUoHhD0RhRydd2in4QbBMzQG3": {
+      "email": "huutien3946@gmail.com",
+      "image": "https://firebasestorage.googleapis.com/v0/b/diadiemdulich2.appspot.com/o/Users_Profile_Cover_image%2Fimage_jtioUoHhD0RhRydd2in4QbBMzQG3?alt=media&token=ccb687d7-5ee9-4807-9727-9c8abefca9a6",
+      "name": "Trịnh Hữu abc",
+      "phone": "0946765531"
+    }
+  }
+}
