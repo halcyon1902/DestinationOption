@@ -18,7 +18,6 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.bumptech.glide.Glide;
 import com.example.desop.HobbyFragment;
 import com.example.desop.LoadingScreen.LoadingScreen2;
 import com.example.desop.Login.activitySignIn;
@@ -43,8 +42,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.squareup.picasso.Picasso;
-
-import de.hdodenhof.circleimageview.CircleImageView;
 
 
 public class MainScreen extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
@@ -190,11 +187,10 @@ public class MainScreen extends AppCompatActivity implements NavigationView.OnNa
                         username_gmail.setText(user.getEmail());
                         username.setText(user.getName());
 //                        String image = "" + child.child("image").getValue();
-                        if(user.getImage() == null){
+                        if (user.getImage() == null) {
                             Drawable drawable = getResources().getDrawable(R.drawable.avatar);
                             profile_image.setImageDrawable(drawable);
-                        }
-                        else{
+                        } else {
                             Picasso.get().load(user.getImage()).into(profile_image);
                         }
 
